@@ -1,154 +1,204 @@
-# 🌐 **NDH‑Myth‑Engine**  
-### *Manifold 2: The Governed Dimensional Runtime of NDH*  
-### README v5.0 — *Runtime Physics & Sovereignty Edition*
+# 🔥 **NDH‑Myth‑Engine**  
+### *Manifold 2: Governed Runtime & Dimensional Narrative Physics*  
+### README v5.0 — *Runtime & Operator Edition*
 
 ---
 
 ## 🜁 **What the Myth‑Engine Is**
 
-The **NDH‑Myth‑Engine** is the operational runtime of NDH — the manifold where dimensional physics, narrative tensors, symbolic fusion, and identity‑driven traversal become *active systems*.
+The **NDH‑Myth‑Engine** is the governed runtime of NDH — the manifold where dimensional operators execute, narrative physics unfold, symbolic tensors interact, and multi‑layer behavior is simulated under strict ethical constraints.
 
 It is:
 
-- the **runtime manifold**  
-- the **dimensional operator layer**  
-- the **narrative‑physics engine**  
-- the **symbolic fusion runtime**  
-- the **sovereignty‑aligned traversal system**  
+- the **runtime physics layer**  
+- the **operator manifold**  
+- the **dimensional traversal engine**  
+- the **symbolic interaction system**  
+- the **governed narrative runtime**  
 
-Where the Origin Layer preserves ethos and history, and the Math Spine preserves invariants and structure, the Myth‑Engine **executes** NDH.
-
----
-
-## 🜂 **Ethos: Runtime Without Coercion**
-
-NDH runtime is governed by a core principle:
-
-> **Traversal must never violate dignity, agency, or identity boundaries.**
-
-The Myth‑Engine enforces this through:
-
-- sovereignty calculus  
-- UMA‑aligned runtime constraints  
-- identity‑boundary coherence  
-- non‑coercive operator behavior  
-- stability envelopes for contested cognition  
-- provenance‑anchored transformations  
-
-This manifold is where ethics become **runtime physics**.
+Where the Math Spine defines the rules, the Myth‑Engine **executes** them.
 
 ---
 
-## 🜃 **Runtime Priorities**
+## 🜂 **Ethos: Runtime Under Governance**
 
-### **1. Stability Under Dimensional Pressure**  
-Runtime operators must maintain coherence even under recursion, symbolic load, or surreal traversal.
+The Myth‑Engine is not a free‑running simulation.
 
-### **2. Identity‑Boundary Protection**  
-No operator may collapse, override, or distort identity boundaries.
+> **It is a governed runtime where every operator is constrained by UMA‑aligned invariants.**
 
-### **3. Non‑Projection of Intent**  
-Runtime evaluation must remain non-authoritative and non-dominating.
+This means:
 
-### **4. Hypercontinuity Across Layers**  
-Transitions between NDH’s 17 runtime layers must preserve A‑Ω continuity.
+- no operator may coerce  
+- no traversal may erase identity  
+- no fusion may violate sovereignty  
+- no recursion may destabilize continuity  
+- no narrative physics may distort witness integrity  
 
-### **5. Provenance Accountability**  
-All runtime transformations must be traceable through lineage anchors.
+The Myth‑Engine is the **execution layer of NDH ethics**.
+
+---
+
+## 🜃 **Core Runtime Priorities**
+
+### **1. Safe Dimensional Traversal**  
+Movement across NDH’s conceptual dimensions must preserve identity, continuity, and stability.
+
+### **2. Tensor‑Safe Interaction**  
+Symbolic, narrative, and identity tensors must interact without coercion or distortion.
+
+### **3. Stability Under Recursion**  
+Runtime loops must remain bounded by the Math Spine’s stability envelopes.
+
+### **4. Narrative Physics Integrity**  
+Story‑like structures must obey continuity, adjacency, and symbolic coherence.
+
+### **5. Provenance Preservation**  
+Every operator must leave a traceable lineage in the Provenance manifold.
 
 ---
 
 ## 🜄 **Purpose of the Myth‑Engine**
 
-The Myth‑Engine serves three roles:
+### **1. Governed Runtime Manifold**  
+The Myth‑Engine executes:
 
-### **1. Dimensional Runtime Manifold**  
-It implements:
-
+- dimensional operators  
+- tensor interactions  
 - narrative physics  
-- symbolic tensor fusion  
-- dimensional adjacency  
-- surreal traversal mechanics  
-- emotional‑logic calculus  
-- governed horror and surreal engines  
+- symbolic adjacency  
+- traversal rules  
+- recursion limits  
+- continuity constraints  
 
-### **2. Ethical Runtime Layer**  
-It enforces UMA‑aligned constraints:
+All runtime behavior is governed by the Math Spine.
 
-- non-coercion  
-- non-erasure  
-- non-domination  
-- identity-boundary coherence  
-- stability under contested cognition  
+### **2. Narrative Physics Engine**  
+NDH treats narrative as a **mathematical object** with:
 
-### **3. Expressive Physics Engine**  
-It powers NDH’s creative systems:
+- adjacency rules  
+- fusion rules  
+- symbolic transport  
+- teleology vectors  
+- continuity constraints  
 
-- surreal puzzle engines  
-- governed horror runtimes  
-- symbolic fusion tools  
-- identity-driven story mechanics  
-- dimensional game design frameworks  
+The Myth‑Engine is where these rules become **runtime behavior**.
+
+### **3. Dimensional Traversal System**  
+The Myth‑Engine defines how NDH moves through:
+
+- symbolic layers  
+- narrative layers  
+- identity layers  
+- provenance layers  
+- stability layers  
+
+Traversal is always governed by sovereignty calculus.
 
 ---
 
-## 🜅 **17D Runtime Architecture**
+## 🜅 **NDH Runtime Architecture**
 
-The Myth‑Engine spans 17 governed runtime layers, including:
+NDH runtime spans multiple conceptual domains:
 
-### **Layers 12–17: Recursion & Stability Physics**  
-Prevent collapse, runaway loops, and identity fragmentation.
+### **Dimensional Operators**  
+Runtime functions that:
 
-### **Layers 9–11: Identity‑Boundary Runtime**  
-Maintain multi-layer identity coherence during traversal.
+- traverse  
+- fuse  
+- split  
+- transport  
+- stabilize  
+- reset  
 
-### **Layers 7–8: Narrative Tensor & Symbolic Fusion**  
-Treat meaning, story, and emotional logic as runtime physics.
+All operators must obey Math Spine invariants.
 
-### **Layer 7: Teleology Vectors**  
-Runtime directionality and purpose-driven traversal.
+### **Narrative Physics**  
+Runtime rules governing:
 
-### **Layer 9: Hypercontinuity**  
-Preserve continuity across resets, jumps, and symbolic shifts.
+- symbolic adjacency  
+- meaning propagation  
+- teleology vectors  
+- narrative continuity  
+- emotional logic coherence  
+
+### **Symbolic Tensor Interaction**  
+Runtime behavior for:
+
+- identity tensors  
+- narrative tensors  
+- adjacency tensors  
+- stability tensors  
+
+### **Recursion Stability Runtime**  
+Runtime enforcement of:
+
+- recursion limits  
+- drift bounds  
+- recovery functions  
+- stability envelopes  
+
+### **Hypercontinuity Runtime**  
+Ensures continuity across:
+
+- resets  
+- jumps  
+- symbolic shifts  
+- narrative transitions  
+
+The Myth‑Engine is the **execution layer** of NDH mathematics.
 
 ---
 
 ## 🜆 **Runtime Components**
 
 ### **Dimensional Operators**  
-Governed transformations across NDH’s expressive layers.
+Governed functions that manipulate NDH’s conceptual space.
 
-### **Narrative Physics Engine**  
-Runtime system for story‑logic, symbolic adjacency, and emotional calculus.
+### **Tensor Interaction Rules**  
+Runtime implementation of Math Spine tensor grammar.
 
-### **Symbolic Fusion Runtime**  
-Safe merging, splitting, and transport of symbolic structures.
+### **Stability Runtime**  
+Execution of stability envelopes and drift‑prevention logic.
 
-### **Stability Envelopes**  
-Runtime protections against collapse, drift, or fragmentation.
+### **Continuity Runtime**  
+Ensures A‑Ω coherence across all runtime transitions.
 
-### **Sovereignty Calculus**  
-Runtime enforcement of agency, identity, and boundary coherence.
+### **Provenance Hooks**  
+Every operator writes to:
 
-### **Audit Operators**  
-TTTTTP‑aligned runtime evaluators for correctness and drift detection.
+- anchor tables  
+- lineage graphs  
+- dependency DAGs  
+
+### **Sovereignty Runtime**  
+Protects identity boundaries and agency during traversal.
+
+### **Audit Runtime**  
+TTTTTP‑aligned correctness and drift detection.
 
 ---
 
-## 🜇 **Relationship to Other Manifolds**
+## 🜇 **Relationship to Other NDH Manifolds**
 
-NDH is a tri-manifold architecture:
+NDH is a **six‑manifold architecture**, each with a distinct role:
 
-1. **NDH-Origin-Layer (Manifold 0)**  
-   Historical + ethical + provenance.
+### **1. NDH‑Origin‑Layer (Manifold 0)**  
+Ethics, history, sovereignty, foundational continuity.
 
-2. **NDH-Math-Spine (Manifold 1)**  
-   Canonical invariants + tensor calculus + stability math.
+### **2. NDH‑Math‑Spine (Manifold 1)**  
+Canonical mathematical backbone — invariants, tensor grammar, stability envelopes.
 
-3. **NDH-Myth-Engine (Manifold 2)**  
-   Governed runtime + dimensional operators + narrative physics.
+### **3. NDH‑Myth‑Engine (Manifold 2)**  
+Governed runtime — dimensional operators, narrative physics, symbolic traversal.
 
-The Myth‑Engine is the **execution layer** of NDH.
+### **4. NDH‑Provenance (Manifold 3)**  
+Lineage, anchor tables, DAGs, dependency graphs, audit trails.
+
+### **5. NDH‑Meta‑Meta‑Index (Manifold 4)**  
+Schemas, cold indexes, structural rules, cross‑manifold mapping.
+
+### **6. UMA‑Witness‑Literature (Manifold 5)**  
+Governance, dignity, witness integrity, sovereignty calculus.
 
 ---
 
@@ -156,23 +206,25 @@ The Myth‑Engine is the **execution layer** of NDH.
 
 ```
 /Runtime
-    Dimensional-Operators
-    Narrative-Physics
-    Symbolic-Fusion
-    Stability-Envelopes
+    Dimensional-Operators.md
+    Narrative-Physics.md
+    Tensor-Interaction.md
 
-/Sovereignty
-    Identity-Boundary-Coherence
-    UMA-Runtime-Constraints
+/Stability
+    Recursion-Stability.md
+    Drift-Bounds.md
+    Recovery-Functions.md
 
-/Provenance
-    Runtime-Anchors
-    Lineage-Graphs
+/Continuity
+    Hypercontinuity.md
+    A-Omega-Coherence.md
 
-/Audit
-    Drift-Detection
-    TTTTTP-Operators
+/Provenance-Hooks
+/Sovereignty-Runtime
+/Audit-Runtime
 ```
+
+This structure reflects NDH’s canonical runtime architecture.
 
 ---
 
@@ -181,9 +233,9 @@ The Myth‑Engine is the **execution layer** of NDH.
 ```
 Author: Borealis S. Hedling
 Location: Dublin, Ireland
-Focus Areas: dimensional runtime design, narrative physics,
-symbolic fusion, identity-boundary coherence, governed surrealism,
-ethical multi-layer traversal systems
+Focus Areas: dimensional runtime physics, narrative systems,
+tensor interaction, identity-boundary protection,
+governed surrealism, multi-layer architecture
 ```
 
 ---
