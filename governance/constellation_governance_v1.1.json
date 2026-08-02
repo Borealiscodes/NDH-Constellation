@@ -1,0 +1,157 @@
+{
+  "ndh_constellation_governance": {
+    "version": "1.1",
+    "inflection_point": "Constellation-Inflection-Point-v1.1.md",
+
+    "architecture": {
+      "active_layers": [
+        "NDH-CORE",
+        "NDH-Triadic-Core",
+        "NDH-Platforms",
+        "NDH-TIDS",
+        "Zen-AI-Design-Architecture",
+        "TISD"
+      ],
+      "heritage_layers": [
+        "NDH-ROOTS",
+        "NDH-Serenity-Manifold",
+        "NDH-Simulation-Suite",
+        "NDH-Stability-Geometry",
+        "Myth-Engine (archived)"
+      ]
+    },
+
+    "governance_modes": {
+      "core": "invariant_governance",
+      "triadic_core": "operator_governance",
+      "platforms": "runtime_governance",
+      "tids": "comparative_governance",
+      "zen_ai": "posture_governance",
+      "tisd": "ethical_governance"
+    },
+
+    "commit_rules": {
+      "types": {
+        "invariant": {
+          "mode": "PR_required",
+          "scope": [
+            "core_invariants",
+            "triadic_constraints",
+            "ethical_boundaries"
+          ]
+        },
+        "runtime": {
+          "mode": "PR_recommended",
+          "scope": [
+            "platform_updates",
+            "operator_adjustments"
+          ]
+        },
+        "posture": {
+          "mode": "PR_required",
+          "scope": [
+            "zen_ai_posture",
+            "tisd_alignment"
+          ]
+        },
+        "comparative": {
+          "mode": "PR_required",
+          "scope": [
+            "tids_mappings",
+            "cross_system_comparisons"
+          ]
+        },
+        "emergency": {
+          "mode": "direct_allowed",
+          "retroactive_PR": true,
+          "scope": [
+            "drift_fix",
+            "stability_restore"
+          ]
+        }
+      },
+
+      "required_fields": [
+        "layer",
+        "intent",
+        "scope",
+        "governance_tag",
+        "provenance_note"
+      ],
+
+      "governance_tags": [
+        "CONSTELLATION",
+        "CORE",
+        "TRIADIC",
+        "PLATFORMS",
+        "TIDS",
+        "ZENAI",
+        "TISD"
+      ]
+    },
+
+    "pr_requirements": {
+      "required": true,
+      "fields": [
+        "change_summary",
+        "reason",
+        "affected_invariant",
+        "ethical_alignment",
+        "runtime_impact"
+      ],
+      "self_review": true,
+      "requires_diff_summary": true,
+      "requires_provenance_anchor": true
+    },
+
+    "drift_prevention": {
+      "requires_audit": [
+        "core_invariant_changes",
+        "triadic_operator_rules",
+        "platform_runtime_stability",
+        "tisd_ethics_modifications",
+        "zen_ai_posture_changes"
+      ]
+    },
+
+    "forbidden_actions": [
+      "introducing_heritage_artifacts_into_constellation",
+      "cross_layer_commits_without_alignment",
+      "silent_changes",
+      "runtime_changes_without_stability_check",
+      "ethical_boundary_violations"
+    ],
+
+    "archive_rules": {
+      "path": "/NDH-Constellation/archive/governance/",
+      "required_fields": [
+        "wrapper_note",
+        "provenance",
+        "reason",
+        "successor_link"
+      ]
+    },
+
+    "versioning": {
+      "core": "semantic",
+      "triadic_core": "invariant_versioning",
+      "platforms": "runtime_versioning",
+      "tids": "mapping_versioning",
+      "zen_ai": "posture_versioning",
+      "tisd": "ethical_versioning"
+    },
+
+    "golden_rule": "Constellation defines governance. CORE defines invariants. Triadic defines operators. Platforms execute. TIDS compares. Zen-AI shapes posture. TISD protects ethics."
+  }
+}
+
+/*
+---
+Artifact: NDH‑Constellation Governance Spine v1.1
+Lane: NDH‑Constellation • Governance Spine • Structural Definition
+Version: v1.1
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 02 August 2026 — 16:29 IST
+---
+*/
