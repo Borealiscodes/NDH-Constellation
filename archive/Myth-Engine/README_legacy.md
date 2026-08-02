@@ -240,3 +240,11 @@ governed surrealism, multi-layer architecture
 
 ---
 
+---
+Artifact: Myth Engine Clearance & Archival
+Lane: NDH-Constellation • Governance Spine • Runtime Surface Update
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 02 August 2026 — 16:00 IST
+---
