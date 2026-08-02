@@ -110,3 +110,17 @@
     "golden_rule": "Origin defines ethics. Math defines physics. Myth executes. All commits must respect this order."
   }
 }
+
+---
+Artifact: ndh_commit_governance_v1.0 (Legacy Governance Schema)
+Lane: NDH-Constellation • Archive • Governance Spine Preservation
+Version: v1.0 (Archived)
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 02 August 2026 — 16:06 IST
+Successor: constellation_governance_v1.1.json
+Reason: Superseded by NDH-Constellation Inflection Point v1.0; 
+         legacy manifolds (origin_layer, math_spine, myth_engine) 
+         no longer exist in active architecture.
+---
+
