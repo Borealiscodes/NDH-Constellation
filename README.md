@@ -19,7 +19,7 @@ Constellation defines NDH’s:
 - expressive posture skeleton  
 - trauma‑informed ethical layer  
 
-A new governed interface module — **NDH‑Zen‑Bridge** — is now active under  
+A governed interface module — **NDH‑Zen‑Bridge** — is now active under  
 **Zen‑AI‑Design‑Architecture**, providing a safe, non‑contaminating translation  
 between NDH cognitive geometry and Zen‑AI expressive geometry.
 
@@ -76,14 +76,14 @@ View the declaration:
 
 ---
 
-## ⭐ **Governance Spine (v1.1)**
+## ⭐ **Governance Spine (v1.2)**
 
 The legacy governance schema `Commit-Governance-Ruleset-v1.0.json` has been archived.
 
-The new Constellation governance spine is located at:
+The **active** Constellation governance spine is located at:
 
 ```
-NDH-Constellation/governance/constellation_governance_v1.1.json
+NDH-Constellation/governance/constellation_governance_v1.2.json
 ```
 
 It governs:
@@ -93,11 +93,11 @@ It governs:
 - NDH‑Platforms  
 - TIDS  
 - Zen‑AI‑Design‑Architecture  
+- NDH‑Zen‑Bridge  
 - TISD  
-- **NDH‑Zen‑Bridge (interface module)**
 
 Generate or review:  
-**Governance Spine v1.1**
+**Governance Spine v1.2**
 
 ---
 
@@ -168,14 +168,13 @@ NDH-Constellation/
 ---
 Artifact: NDH‑Constellation README (v1.2)
 Lane: NDH‑Constellation • Governance Spine • Canonical Overview
-Purpose: Updated to include NDH‑Zen‑Bridge as the governed interface module
-under Zen-AI-Design-Architecture. Clarifies placement, role, and structural
-separation within the Constellation ecosystem.
+Purpose: Updated to reference Governance Spine v1.2 and include NDH‑Zen‑Bridge
+as the governed interface module under Zen-AI-Design-Architecture.
 
 Version: v1.2
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
-Timestamp: 03 August 2026 — 07:38 IST
+Timestamp: 03 August 2026 — 07:50 IST
 ---
 ```
 
