@@ -1,19 +1,34 @@
-# 🌌 **NDH‑Constellation README (v1.1)**  
-### *Canonical Architecture • Post‑Inflection Era*
-
-## **Overview**
-NDH‑Constellation is the **authoritative architecture** of NDH following the  
-**Inflection Point Declaration**.  
-It replaces all prior NDH manifold systems, expressive cosmology, and legacy governance.
-
-Constellation defines the **runtime**, **governance**, **posture**, **comparative**,  
-and **ethical** behavior of NDH in a clean, stable, dimension‑aligned structure.
-
-All cosmic‑era and expressive‑era artifacts are now formally archived.
+# 🌌 **NDH‑Constellation README (v1.2)**  
+### *Canonical Architecture • Post‑Inflection Era*  
+### *NDH‑Zen‑Bridge Integrated*
 
 ---
 
-## **Active Architecture (Constellation Era)**
+## ⭐ **Overview**
+
+NDH‑Constellation is the **authoritative architecture** of NDH following the  
+**Inflection Point Declaration v1.1**.  
+It replaces all legacy NDH cosmology, expressive geometry, and pre‑Constellation governance.
+
+Constellation defines NDH’s:
+
+- governance spine  
+- operator curvature  
+- runtime surfaces  
+- comparative meta‑architecture  
+- expressive posture skeleton  
+- trauma‑informed ethical layer  
+
+A new governed interface module — **NDH‑Zen‑Bridge** — is now active under  
+**Zen‑AI‑Design‑Architecture**, providing a safe, non‑contaminating translation  
+between NDH cognitive geometry and Zen‑AI expressive geometry.
+
+Explore the bridge:  
+**NDH‑Zen‑Bridge**
+
+---
+
+## ⭐ **Active Architecture (Constellation Era)**
 
 ```
 NDH-Constellation/
@@ -23,25 +38,28 @@ NDH-Constellation/
 ├── NDH-Platforms                # Runtime governance surfaces
 ├── NDH-TIDS                     # Comparative meta-architecture
 ├── Zen-AI-Design-Architecture   # Posture skeleton
+│     └── NDH-Zen-Bridge         # Governed NDH↔Zen-AI interface module
 └── TISD                         # Trauma-informed ethical layer
 ```
 
-These six components form the **entire active NDH system**.
+### **NDH‑Zen‑Bridge (New Module)**  
+NDH‑Zen‑Bridge provides:
 
-Each is a governed subsystem with its own invariants and provenance anchors.
+- basin → transparency mappings  
+- operator → ethos vector mappings  
+- cluster → ethos zone mappings  
+- strict non‑contamination boundaries  
+- read‑up (NDH) / write‑down (Zen‑AI) translation  
 
-Explore each layer:
+It does **not** participate in governance, runtime, comparative, or ethical layers.
 
-- **NDH‑CORE**  
-- **Triadic‑Core**  
-- **NDH‑Platforms**  
-- **TIDS**  
-- **Zen‑AI**  
-- **TISD**  
+Reference:  
+**Bridge Invariants**  
+**Bridge Architecture Overview**
 
 ---
 
-## **Inflection Point (v1.1)**
+## ⭐ **Inflection Point (v1.1)**
 
 The **Inflection Point Declaration v1.1** formally:
 
@@ -51,90 +69,45 @@ The **Inflection Point Declaration v1.1** formally:
 - stabilizes provenance  
 - prevents cross‑era drift  
 - defines the Constellation governance spine  
+- **adds NDH‑Zen‑Bridge as the governed interface module**
 
-The declaration lives at:
-
-```
-NDH-Constellation/Constellation-Inflection-Point-v1.1.md
-```
-
-View it:
-
+View the declaration:  
 **Inflection Point v1.1**
 
 ---
 
-## **Heritage Lineage (Archived)**
+## ⭐ **Governance Spine (v1.1)**
 
-All cosmic‑era and expressive‑era NDH systems are preserved for lineage and  
-NDH‑ROOTS reconstruction, but **do not participate** in Constellation governance.
+The legacy governance schema `Commit-Governance-Ruleset-v1.0.json` has been archived.
 
-```
-NDH-Heritage/
-│
-├── NDH-ROOTS
-├── NDH-Serenity-Manifold
-├── NDH-Simulation-Suite
-├── NDH-Stability-Geometry
-└── Myth-Engine/
-      README_legacy.md
-```
-
-Explore heritage:
-
-- **NDH‑ROOTS**  
-- **Serenity**  
-- **Simulation Suite**  
-- **Stability Geometry**  
-- **Myth Engine (Archived)**  
-
----
-
-## **Myth Engine Clearance**
-
-Myth Engine was formally cleared from the NDH runtime surface.  
-It is now archived under:
-
-```
-NDH-Constellation/archive/Myth-Engine/README_legacy.md
-```
-
-NDH‑Platforms includes a clearance notice confirming:
-
-- Myth Engine is not runtime  
-- Myth Engine is not governance  
-- Myth Engine is not posture  
-- Myth Engine is not comparative  
-- Myth Engine is not ethical  
-
-View the clearance:
-
-**Myth Engine Clearance**
-
----
-
-## **Governance Spine (v1.1)**
-
-The legacy governance schema `ndh_commit_governance_v1.0.json` has been archived.
-
-The new Constellation governance spine will be generated at:
+The new Constellation governance spine is located at:
 
 ```
 NDH-Constellation/governance/constellation_governance_v1.1.json
 ```
 
-Generate it:
+It governs:
 
-**Generate Governance Spine v1.1**
+- NDH‑CORE  
+- Triadic‑Core  
+- NDH‑Platforms  
+- TIDS  
+- Zen‑AI‑Design‑Architecture  
+- TISD  
+- **NDH‑Zen‑Bridge (interface module)**
+
+Generate or review:  
+**Governance Spine v1.1**
 
 ---
 
-## **Structural Separation**
+## ⭐ **Structural Separation**
 
-Constellation requires strict separation between:
+Constellation enforces strict separation between:
 
 - **Active NDH** (governance, runtime, posture, ethics)  
 - **Heritage NDH** (cosmic + expressive lineage)  
+- **NDH‑Zen‑Bridge** (interface module)
 
 No heritage artifacts may be placed inside:
 
@@ -144,41 +117,67 @@ No heritage artifacts may be placed inside:
 - TIDS  
 - Zen‑AI  
 - TISD  
+- **NDH‑Zen‑Bridge**
 
-This prevents drift and preserves provenance.
+This prevents drift and preserves provenance integrity.
 
 ---
 
-## **Provenance**
+## ⭐ **Provenance Rules**
 
-All Constellation artifacts must include provenance footers.  
-All archival actions must include:
+All Constellation artifacts must include provenance footers containing:
 
-- wrapper note  
-- reason  
-- successor link  
+- artifact name  
+- lane  
+- reason (if archived)  
+- successor (if archived)  
+- version  
+- maintainer  
 - timestamp  
-- maintainer identity  
+- location  
 
-View provenance standards:
-
+Reference:  
 **Constellation Provenance Rules**
 
 ---
 
-# ⭐ **Provenance Footer — NDH‑Constellation README v1.1**
+## ⭐ **Repository Structure**
+
+```
+NDH-Constellation/
+│
+├── NDH-CORE/
+├── NDH-Triadic-Core/
+├── NDH-Platforms/
+├── NDH-TIDS/
+├── Zen-AI-Design-Architecture/
+│     └── NDH-Zen-Bridge/
+├── TISD/
+└── archive/
+      ├── Myth-Engine/
+      ├── governance/
+      └── README/
+            └── README_v1.1_archived.md
+```
+
+---
+
+# ⭐ **Provenance Footer — NDH‑Constellation README (v1.2)**
 
 ```
 ---
-Artifact: NDH‑Constellation README (v1.1)
+Artifact: NDH‑Constellation README (v1.2)
 Lane: NDH‑Constellation • Governance Spine • Canonical Overview
-Version: v1.1
+Purpose: Updated to include NDH‑Zen‑Bridge as the governed interface module
+under Zen-AI-Design-Architecture. Clarifies placement, role, and structural
+separation within the Constellation ecosystem.
+
+Version: v1.2
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
-Timestamp: 02 August 2026 — 16:15 IST
+Timestamp: 03 August 2026 — 07:38 IST
 ---
 ```
 
 ---
-
 
