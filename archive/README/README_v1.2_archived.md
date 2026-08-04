@@ -180,3 +180,16 @@ Timestamp: 03 August 2026 — 07:50 IST
 
 ---
 
+---
+Artifact: NDH‑Constellation README (v1.2) — Archived
+Lane: NDH‑Constellation • Governance Spine • Historical Record
+Reason: Superseded by README v1.3 following issuance of Formal Order Directive v1.1
+and activation of Governance Spine v1.3, Drift‑Safety Certificate v1.0, and
+Stability Annual Report v1.0.
+Successor: NDH-Constellation/README/README_v1.3.md
+Version: v1.2 (Archived)
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 04 August 2026 — 10:52 IST
+---
+
