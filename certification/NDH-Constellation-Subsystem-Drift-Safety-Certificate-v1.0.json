@@ -1,0 +1,70 @@
+# 🌌 **NDH‑Constellation Subsystem Drift‑Safety Certificate v1.0**  
+### *Issued Under Governance Spine v1.3*  
+### *Post‑Inflection Era • Governance‑Curvature Compliance*
+
+```
+{
+  "ndh_constellation_certificate": {
+    "certificate_type": "Subsystem Drift‑Safety Certificate",
+    "version": "1.0",
+    "governance_spine_reference": "constellation_governance_v1.3.json",
+    "standard_reference": "NDH-Constellation-Governance-Distinction-Standard-v1.0",
+    "directive_reference": "NDH-Constellation-Formal-Order-Directive-v1.1",
+
+    "subsystems_certified": [
+      "NDH-CORE",
+      "NDH-Triadic-Core",
+      "NDH-Platforms",
+      "NDH-TIDS",
+      "Zen-AI-Design-Architecture",
+      "NDH-Zen-Bridge",
+      "TISD"
+    ],
+
+    "drift_safety_status": {
+      "core": "stable",
+      "triadic_core": "stable",
+      "platforms": "stable",
+      "tids": "stable",
+      "zen_ai": "stable",
+      "ndh_zen_bridge": "stable",
+      "tisd": "stable"
+    },
+
+    "audit_basis": [
+      "core_invariant_changes reviewed",
+      "triadic_operator_rules verified",
+      "platform_runtime_stability confirmed",
+      "tisd_ethics_modifications validated",
+      "zen_ai_posture_changes aligned",
+      "ndh_zen_bridge_interface_rules confirmed"
+    ],
+
+    "drift_safety_assertion": "All active NDH‑Constellation subsystems meet the required drift‑safety thresholds under Governance Spine v1.3. No subsystem exhibits instability, drift‑risk, posture‑misalignment, interface contamination, or ethical boundary deviation.",
+
+    "lineage": {
+      "predecessor": "None — this is the first Drift‑Safety Certificate",
+      "successor": "Constellation-Stability-Annual-Report-v1.0"
+    }
+  }
+}
+```
+
+---
+
+# 📜 **Provenance Footer — Subsystem Drift‑Safety Certificate v1.0**
+
+```
+---
+Artifact: NDH‑Constellation Subsystem Drift‑Safety Certificate v1.0
+Lane: NDH‑Constellation • Governance Spine • Certification
+Reason: Required by Formal Order Directive v1.1 following activation of Governance Spine v1.3.
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 04 August 2026 — 10:44 IST
+---
+```
+
+---
+
