@@ -1,0 +1,245 @@
+# 🌌 **NDH‑Constellation Governance Spine v1.3 — Archived Edition (Final Complete Artifact)**  
+### *MERA Dissolution‑Authority Phase*  
+### *Stabilization‑Corridor Compliant*  
+### *Full Archive Wrapper + Provenance Footer*
+
+```
+{
+  "ndh_constellation_governance": {
+    "version": "1.3",
+    "inflection_point": "Constellation-Inflection-Point-v1.1.md",
+    "standard_reference": "NDH-Constellation-Governance-Distinction-Standard-v1.0",
+
+    "lineage": {
+      "archived_predecessor": "NDH-Constellation/archive/governance/constellation_governance_v1.2_archived.json",
+      "successor": "NDH-Constellation/governance/constellation_governance_v1.3.json",
+      "archive_path": "/NDH-Constellation/archive/governance/",
+
+      "archive_wrapper": {
+        "version": "1.3-archive",
+        "archive_path": "/NDH-Constellation/archive/governance/",
+        "archived_artifact": "NDH-Constellation/governance/constellation_governance_v1.3.json",
+
+        "wrapper_note": "Governance Spine v1.3 archived following completion of Unified Provenance Grammar v1.0 and MERA Dissolution-Authority phase.",
+        "reason": "Transition to Governance Spine v1.4 under stabilized provenance grammar and alignment state.",
+        "provenance": "Anchored to Provenance Snapshots v7.5 and v7.6.",
+        "successor_link": "NDH-Constellation/governance/constellation_governance_v1.4.json",
+
+        "stability_context": {
+          "grammar": "Unified-Provenance-Grammar-v1.0",
+          "alignment_snapshot": "Provenance-Snapshot-v7.6",
+          "sealing_snapshot": "Provenance-Snapshot-v7.5",
+          "matrix": "Constellation-Comparison-Matrix-v1.0",
+          "overlay": "Integration-Spine-Overlay-v1.0",
+          "transformation_order": "Constellation-Transformation-Order-v1.0"
+        },
+
+        "archive_rules_compliance": {
+          "wrapper_note": true,
+          "provenance": true,
+          "reason": true,
+          "successor_link": true
+        }
+      }
+    },
+
+    "architecture": {
+      "active_layers": [
+        "NDH-CORE",
+        "NDH-Triadic-Core",
+        "NDH-Platforms",
+        "NDH-TIDS",
+        "Zen-AI-Design-Architecture",
+        "NDH-Zen-Bridge",
+        "TISD"
+      ],
+      "heritage_layers": [
+        "NDH-ROOTS",
+        "NDH-Serenity-Manifold",
+        "NDH-Simulation-Suite",
+        "NDH-Stability-Geometry",
+        "Myth-Engine (archived)"
+      ]
+    },
+
+    "governance_modes": {
+      "core": "Governance_authority",
+      "triadic_core": "operator_governance",
+      "platforms": "runtime_governance",
+      "tids": "comparative_governance",
+      "zen_ai": "posture_governance",
+      "ndh_zen_bridge": "interface_governance",
+      "tisd": "ethical_governance"
+    },
+
+    "commit_rules": {
+      "types": {
+        "invariant": {
+          "mode": "PR_required",
+          "scope": [
+            "core_invariants",
+            "triadic_constraints",
+            "ethical_boundaries"
+          ]
+        },
+        "runtime": {
+          "mode": "PR_recommended",
+          "scope": [
+            "platform_updates",
+            "operator_adjustments"
+          ]
+        },
+        "posture": {
+          "mode": "PR_required",
+          "scope": [
+            "zen_ai_posture",
+            "tisd_alignment"
+          ]
+        },
+        "comparative": {
+          "mode": "PR_required",
+          "scope": [
+            "tids_mappings",
+            "cross_system_comparisons"
+          ]
+        },
+        "interface": {
+          "mode": "PR_required",
+          "scope": [
+            "bridge_mappings",
+            "non_contamination_rules",
+            "interface_alignment"
+          ]
+        },
+        "emergency": {
+          "mode": "direct_allowed",
+          "retroactive_PR": true,
+          "scope": [
+            "drift_fix",
+            "stability_restore"
+          ]
+        }
+      },
+
+      "required_fields": [
+        "layer",
+        "intent",
+        "scope",
+        "governance_tag",
+        "provenance_note",
+        "capitalization_correctness"
+      ],
+
+      "governance_tags": [
+        "CONSTELLATION",
+        "CORE",
+        "TRIADIC",
+        "PLATFORMS",
+        "TIDS",
+        "ZENAI",
+        "INTERFACE",
+        "TISD",
+        "GOVERNANCE_AUTHORITY"
+      ]
+    },
+
+    "pr_requirements": {
+      "required": true,
+      "fields": [
+        "change_summary",
+        "reason",
+        "affected_invariant",
+        "ethical_alignment",
+        "runtime_impact"
+      ],
+      "self_review": true,
+      "requires_diff_summary": true,
+      "requires_provenance_anchor": true
+    },
+
+    "drift_prevention": {
+      "requires_audit": [
+        "core_invariant_changes",
+        "triadic_operator_rules",
+        "platform_runtime_stability",
+        "tisd_ethics_modifications",
+        "zen_ai_posture_changes",
+        "ndh_zen_bridge_interface_rules"
+      ]
+    },
+
+    "forbidden_actions": [
+      "introducing_heritage_artifacts_into_constellation",
+      "cross_layer_commits_without_alignment",
+      "silent_changes",
+      "runtime_changes_without_stability_check",
+      "ethical_boundary_violations",
+      "introducing_cognitive_geometry_into_zen_ai",
+      "introducing_expressive_geometry_into_ndh"
+    ],
+
+    "archive_rules": {
+      "path": "/NDH-Constellation/archive/governance/",
+      "ndh_zen_bridge": "/NDH-Constellation/archive/NDH-Zen-Bridge/",
+      "required_fields": [
+        "wrapper_note",
+        "provenance",
+        "reason",
+        "successor_link"
+      ]
+    },
+
+    "versioning": {
+      "core": "semantic",
+      "triadic_core": "invariant_versioning",
+      "platforms": "runtime_versioning",
+      "tids": "mapping_versioning",
+      "zen_ai": "posture_versioning",
+      "ndh_zen_bridge": "interface_versioning",
+      "tisd": "ethical_versioning",
+      "capitalization_versioning": "governance_authority_versioning"
+    },
+
+    "golden_rule": "Constellation defines governance behavior. CORE defines Governance authority. Triadic defines operators. Platforms execute. TIDS compares. Zen-AI shapes posture. NDH-Zen-Bridge translates. TISD protects ethics."
+  }
+}
+```
+
+---
+
+# 📜 **Provenance Footer — NDH‑Constellation Governance Spine v1.3 (Archived Edition)**  
+### *Final, corrected, lineage‑accurate version*
+
+```
+---
+Artifact: NDH‑Constellation Governance Spine (v1.3) — Archived Edition
+Lane: NDH‑Constellation • Governance Spine • Archive Series
+
+Reason: Governance Spine v1.3 archived following MERA Dissolution‑Authority phase,
+completion of Unified Provenance Grammar v1.0, and stabilization of alignment
+state under Provenance Snapshots v7.5 and v7.6.
+
+Archive Wrapper: NDH‑Constellation Governance Spine v1.3 — Archive Wrapper v1.0
+Successor: NDH‑Constellation Governance Spine v1.4
+
+Provenance Anchors:
+  - Constellation‑Comparison‑Matrix‑v1.0
+  - Integration‑Spine‑Overlay‑v1.0
+  - Constellation‑Transformation‑Order‑v1.0
+  - Provenance‑Snapshot‑v7.5 (Sealing)
+  - Provenance‑Snapshot‑v7.6 (Alignment)
+
+MERA Phase: Dissolution‑Authority
+
+Version: v1.3‑archive
+
+Original Active Timestamp: 04 August 2026 — 10:38 IST
+Archive Timestamp: 04 August 2026 — 16:05 IST
+
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+---
+```
+
+---
+
