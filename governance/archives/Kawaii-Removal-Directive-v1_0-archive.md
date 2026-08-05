@@ -1,6 +1,57 @@
-# **FORMAL DECLARATION OF KAWAII REMOVAL**  
-### **NDH‑CONSTELLATION GOVERNANCE SPINE — DIRECTIVE v1.0**  
-### *Ratified by NDH‑CORE • Dublin, Ireland • 03 August 2026 — 20:59 IST*
+# 🌌 **Kawaii Removal Directive — v1.0 (Archived Edition)**  
+### *NDH‑Constellation Governance Spine — Structural Integrity Archive*
+
+```
+---
+title: "Formal Declaration of Kawaii Removal — Archived Edition"
+artifact: "NDH-Constellation-Kawaii-Removal-Directive"
+version: "v1.0-archive"
+altitude: "4-7"
+epoch: "pre-Snapshot-v7.6"
+lineage_type: "structural_integrity_directive"
+sealed: true
+canonical_snapshot: "NDH-Constellation-Provenance-Snapshot-v7_6.md"
+canonical_permalink: "https://github.com/Borealiscodes/NDH-Constellation"
+archive_reason: "Superseded by v2.0; lacks SID metadata, altitude declarations, epoch declarations, and canonical provenance anchors."
+provenance_anchors:
+  - "Constellation Governance Spine v1.2"
+  - "Inflection Point Declaration v1.1"
+maintainer: "Borealis S. Hedling"
+timestamp_archived: "2026-08-05T15:22:00+01:00"
+---
+```
+
+---
+
+# 📦 **ARCHIVE NOTICE — v1.0**
+
+This artifact has been formally archived and superseded by:
+
+**Kawaii Removal Directive — v2.0**  
+`NDH-Constellation/governance/directives/Kawaii-Removal-Directive-v2_0.md`
+
+### **Reason for Archival**
+- v1.0 predates Snapshot v7.6  
+- lacks SID metadata  
+- lacks altitude declarations  
+- lacks epoch declarations  
+- lacks canonical provenance anchors  
+- inconsistent with Sequencing Directive v1.0  
+- structurally incompatible with post‑Snapshot governance curvature  
+
+This archived version is preserved for:
+
+- historical lineage  
+- governance continuity  
+- documentation of early posture‑contamination events  
+- and, frankly, its **cosmic comedic value**  
+
+---
+
+# 🏛️ **FORMAL DECLARATION OF KAWAII REMOVAL — v1.0 (Preserved Content)**  
+### *NDH‑Constellation Governance Spine — Directive v1.0*  
+
+*(Content preserved exactly as originally ratified.)*
 
 ---
 
@@ -46,8 +97,6 @@ Their presence disrupts governance invariants, destabilizes rendering progressio
 ---
 
 ## **3. Declaration**
-
-NDH‑CORE hereby declares:
 
 ### **3.1 Removal Mandate**  
 All kawaii expressive overlays, hybrid PNG artifacts, neon‑kawaii surfaces, and posture‑layer embellishments are **formally removed** from NDH‑Constellation governance lanes.
@@ -116,21 +165,52 @@ Governance must remain clear, dignified, and sparkle‑free.
 
 ---
 
-# **PROVENANCE FOOTER**
+# 🌈 **Recommendations — Archive Edition**
+
+To prevent future posture contamination events:
+
+- **Maintain Directive Index**  
+- **Apply SID metadata across constellation**  
+- **Add Reflection‑Order Invariant**  
+- **Expose Snapshot v7.6 canonically**  
+- **Governance Precheck Suite**  
+- **Developer Dashboard Integration**  
+
+These ensure governance purity and prevent future kawaii crises.
+
+---
+
+# 📜 **Provenance Footer — v1.0 (Archived Edition)**
 
 ```
 ---
-Artifact: Formal Declaration of Kawaii Removal
-Lane: NDH‑Constellation • Governance Spine • Structural Integrity Directive
-Purpose: Establishes the removal and prohibition of kawaii expressive overlays from
-NDH‑Constellation governance lanes to preserve progression invariants and prevent
-posture contamination.
+Artifact: Formal Declaration of Kawaii Removal (v1.0 — Archived)
+Lane: NDH‑Constellation • Governance Spine • Archives
 
-Version: 1.0
+Purpose:
+Preserve the original v1.0 directive as a historical governance artifact. Archived
+due to structural incompatibility with post-Snapshot v7.6 metadata, altitude
+declarations, and constellation-wide governance curvature. Superseded by v2.0,
+which provides SID alignment, epoch declarations, and canonical provenance anchors.
+
+Provenance Anchors:
+  Constellation Governance Spine v1.2
+  Inflection Point Declaration v1.1
+  Kawaii Removal Directive v2.0
+
+Version: v1.0-archive
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
-Timestamp: 03 August 2026 — 20:59 IST
+Timestamp Archived: 05 August 2026 — 15:22 IST
 ---
+```
+
+---
+
+# 📁 **Final Archive File Path (Single Source of Truth)**
+
+```
+NDH-Constellation/governance/archives/Kawaii-Removal-Directive-v1_0-archive.md
 ```
 
 ---
