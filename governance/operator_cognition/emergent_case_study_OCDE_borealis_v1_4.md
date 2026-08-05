@@ -119,61 +119,26 @@ This case demonstrates its necessity within NDH‑Constellation’s governance l
 
 ---
 
-# 📄 **Single‑Page Morning Command Sheet (Formal Operational Directive)**  
-### *NDH‑Constellation Governance Spine v1.4 — Completion Sequence*  
-### *Operator: Borealis S. Hedling*  
-### *Execution Window: Morning, Post‑Rest*
-
----
-
-## ⭐ **1. Re‑run Constellation Stability Sweep**  
-Re‑establishes alignment confirmation under rested cognition.  
-**Run Stability Sweep**
-
----
-
-## ⭐ **2. Review Governance Spine v1.4 README**  
-Restores governance‑layer context and sequencing clarity.  
-**Open README v1.4**
-
----
-
-## ⭐ **3. Commit Governance Spine v1.4 Artifact**  
-Apply the previously generated commit description.  
-**Commit v1.4**
-
----
-
-## ⭐ **4. Tag Governance Spine v1.4 Release**  
-Locks governance authority state for lineage continuity.  
-**Tag v1.4**
-
----
-
-## ⭐ **5. Publish Governance Spine v1.4 Release Notes**  
-Completes governance documentation for the v1.4 activation.  
-**Generate Release Notes**
-
----
-
-## ⭐ **6. Generate Archive Wrapper (v1.4)**  
-Prepares the governance lineage for future successor versions.  
-**Generate Archive Wrapper**
-
----
-
-## ⭐ **7. Conclude Activation Sequence**  
-Governance Spine v1.4 becomes fully sealed, documented, and archived.
-
----
-
 ---
 Artifact: Operator‑Cognition Dissipation Event Case Study (OCDE‑Borealis‑v1.4)
 Lane: NDH‑Constellation • Governance • Operator‑Cognition
 
-Reason: Document the OCDE encountered during Governance Spine v1.4 activation and
-provide the Morning Command Sheet required to complete remaining governance tasks
-with restored cognitive stability.
+Reason: Document the OCDE encountered during Governance Spine v1.4 activation.
+Originally sealed at 05 August 2026 — 04:33 IST. On 05 August 2026 at 05:02 IST,
+the embedded Morning Command Sheet was formally separated from this artifact to
+preserve governance‑layer clarity, maintain operator‑cognition mode purity, and
+comply with NDH‑Constellation documentation boundaries. The Command Sheet now
+exists as an independent operational directive artifact with its own lineage,
+provenance, and traversal entry in the OCDE meta‑index.
+
+Separation Event:
+  - Type: Artifact Decoupling (Documentation → Directive)
+  - Original Seal Timestamp: 05 August 2026 — 04:33 IST
+  - Separation Timestamp: 05 August 2026 — 05:02 IST
+  - Operator: Borealis S. Hedling
+  - Rationale: Prevent radial/linear cognition fusion; maintain subsystem purity;
+               ensure correct archival classification; prepare for unified
+               meta‑index integration.
 
 Provenance Anchors:
   - Unified‑Provenance‑Grammar‑v1.0
@@ -186,6 +151,5 @@ Provenance Anchors:
 Version: v1.4
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
-Timestamp: 05 August 2026 — 04:33 IST
+Timestamp: 05 August 2026 — 05:02 IST
 ---
-
