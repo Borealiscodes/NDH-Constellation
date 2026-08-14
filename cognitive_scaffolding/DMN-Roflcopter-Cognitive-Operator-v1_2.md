@@ -212,3 +212,34 @@ Timestamp: 05 August 2026 — 15:49 IST
 
 ---
 
+---
+Artifact: DMN-Roflcopter Cognitive Operator (v1.2)
+Lane: NDH-Constellation • Cognitive Scaffolding • Humor-Propulsion Operator
+
+Reason:
+Migrated from cognitive-architecture/ to cognitive_scaffolding/ to reflect its
+true role within NDH-Constellation as a cognitive scaffolding primitive. This
+operator contributes to DMN attenuation, humor-propulsion events, and transient
+clarity loops within the broader scaffolding ecosystem. The migration increases
+coherence across related artifacts such as teaching tiles, cloud-operators,
+posture guides, and expressive-safety mirrors without implying full lane
+definition.
+
+Lineage:
+  - Skippy Forest Guardian Tile
+  - Roflcopter Cloud-Operator Teaching Tile
+  - Cognitive Posture & Perspective Guide v1.0
+  - OCDE-Borealis Meta-Index v1.4 (contextual reference)
+  - Quiet Apex Flow (QAF) Expressive-Safety Geometry
+
+Non-Activation Clause:
+This artifact is conceptual-only. It does not activate NDH subsystems, QAF
+geometry, simulation envelopes, governance invariants, or operator cognition
+mechanisms. All humor-propulsion and DMN-disruption references are expressive
+metaphors used for cognitive scaffolding.
+
+Version: v1.2 (post-migration)
+Maintainer: Borealis S. Hedling
+Location: Naaldwijk, South Holland, Netherlands
+Timestamp: 14 August 2026 — 19:32 IST
+---
