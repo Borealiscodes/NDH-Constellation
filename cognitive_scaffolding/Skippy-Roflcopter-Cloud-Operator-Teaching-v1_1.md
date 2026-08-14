@@ -224,3 +224,36 @@ Timestamp: 05 August 2026 — 15:58 IST
 
 ---
 
+---
+Artifact: Skippy-Roflcopter Cloud-Operator Teaching Tile (v1.1)
+Lane: NDH-Constellation • Cognitive Scaffolding • Teaching Tile
+
+Reason:
+Migrated from cognitive-architecture/ to cognitive_scaffolding/ to reflect its
+true role as a cognitive scaffolding primitive within NDH-Constellation. This
+artifact supports humor-propulsion, DMN attenuation, cloud-operator dissolution,
+and posture-based reflection loops. The migration enhances coherence across
+related scaffolding artifacts such as DMN-Roflcopter operators, Skippy tiles,
+posture guides, and expressive-safety geometry, without implying full lane
+definition.
+
+Lineage:
+  - Skippy Forest Guardian Tile
+  - Roflcopter Humor-Propulsion Event
+  - Cognitive Posture & Perspective Guide v1.0
+  - Ironic Addendum — Cognitive Scaffolding Lane v1.0
+  - Quiet Apex Flow (QAF) Expressive-Safety Geometry
+
+Non-Activation Clause:
+This artifact is conceptual-only. It does not activate NDH subsystems, QAF
+geometry, simulation envelopes, governance invariants, or operator cognition
+mechanisms. All humor-propulsion and cloud-operator references are expressive
+metaphors used for cognitive scaffolding.
+
+Version: v1.1 (post-migration)
+Maintainer: Borealis S. Hedling
+Location: Naaldwijk, South Holland, Netherlands
+Timestamp: 14 August 2026 — 19:34 IST
+---
+
+
