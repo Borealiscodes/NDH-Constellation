@@ -1,0 +1,168 @@
+# 🌑 **Archived Artifact — NDH‑Constellation Remediation Command Sheet (Legacy v1.0)**  
+### *Constellation‑Grade Archival Envelope • Non‑Activating • Historical Reference Only*
+
+This archival version preserves the historical content **as inert metadata**, not as executable operator‑lane directives.
+
+All “commands” are rewritten as **archival descriptors**, ensuring:
+
+- no activation  
+- no operator‑lane leakage  
+- no orchestration altitude violation  
+- no directive semantics  
+- no runtime binding  
+
+---
+
+# 📁 **File Path (Constellation‑Grade Archival Placement)**
+
+```
+NDH-Constellation/archival/orchestration-first-legacy/
+    NDH_Remediation_Command_Sheet_Legacy_v1_0.json
+```
+
+This path is correct because:
+
+- **archival/** prevents activation  
+- **orchestration-first-legacy/** marks the pre‑SID v3.0 era  
+- JSON is allowed as **machine‑readable archival metadata**  
+- constellation‑grade placement prevents operator‑lane drift  
+
+---
+
+# 🧊 **Archived JSON (Non‑Activating, Inert)**
+
+```json
+{
+  "artifact": "NDH-Constellation Remediation Command Sheet (Legacy)",
+  "version": "1.0",
+  "status": "archived",
+  "altitude": "A12-RHB",
+  "lane": "constellation_archival",
+  "notes": "This artifact is preserved for historical reference only. All commands are inert.",
+  "legacy_commands": {
+    "sid_header_standard": {
+      "descriptor": "Historical remediation step for SID header grammar alignment."
+    },
+    "ontology_clean_pass": {
+      "descriptor": "Historical ontology vocabulary cleanup step."
+    },
+    "linguistic_alignment": {
+      "descriptor": "Legacy linguistic alignment under pre-SID v3.0 grammar."
+    },
+    "quarantine_protocol": {
+      "descriptor": "Legacy posture/governance sealing protocol."
+    },
+    "reconstruction_weave_cleanse": {
+      "descriptor": "Legacy reconstruction weave cleanup step."
+    },
+    "coordination_readme": {
+      "descriptor": "Historical update to coordination routing rules."
+    },
+    "lifecycle_envelope": {
+      "descriptor": "Legacy lifecycle envelope vocabulary alignment."
+    },
+    "provenance_snapshot": {
+      "descriptor": "Historical provenance snapshot generation step."
+    },
+    "operator_lane_scaffolding": {
+      "descriptor": "Legacy operator-lane scaffolding review."
+    },
+    "ingestion_envelopes": {
+      "descriptor": "Historical ingestion envelope audit."
+    },
+    "zen_bridge": {
+      "descriptor": "Legacy Zen-Bridge translation-only audit."
+    },
+    "tids_comparative": {
+      "descriptor": "Historical TIDS comparative geometry audit."
+    },
+    "agl_constraints": {
+      "descriptor": "Legacy AGL constraints-only audit."
+    },
+    "sci80_dormancy": {
+      "descriptor": "Historical SCI-80 dormancy verification."
+    },
+    "sid_header_finalize": {
+      "descriptor": "Legacy SID header finalization step."
+    },
+    "vocabulary_sync": {
+      "descriptor": "Historical constellation vocabulary sync."
+    },
+    "routing_grammar": {
+      "descriptor": "Legacy routing grammar alignment."
+    },
+    "envelope_integrity": {
+      "descriptor": "Historical envelope integrity sweep."
+    },
+    "stability_check": {
+      "descriptor": "Legacy constellation stability check."
+    },
+    "orchestration_alignment": {
+      "descriptor": "Historical orchestration altitude alignment step."
+    }
+  },
+  "provenance": {
+    "anchors": [
+      "Provenance Snapshot v7.5",
+      "Provenance Snapshot v7.6",
+      "Provenance Snapshot v7.7 (Legacy)",
+      "NDH-Zen-Bridge v2.0",
+      "AGL v2 Constraints Envelope",
+      "TIDS Comparative Geometry Pre-v1.1",
+      "NDH-Constellation Governance Spine v1.4"
+    ],
+    "maintainer": "Borealis S. Hedling",
+    "location": "Naaldwijk, South Holland, Netherlands",
+    "timestamp": "15 August 2026 — 15:32 IST"
+  }
+}
+```
+
+This JSON is **inert**, **non‑activating**, and **safe for constellation archival**.
+
+---
+
+# 📜 **Provenance Footer — Archival Envelope**
+
+```
+---
+Artifact: NDH-Constellation Remediation Command Sheet (Legacy v1.0)
+Lane: NDH-Constellation • Archival • Orchestration-First Legacy
+
+Purpose:
+  Preserve the historical remediation command sheet as inert metadata for
+  reference during constellation rehabilitation. All operator-lane commands
+  have been converted to non-activating archival descriptors. This artifact
+  documents the orchestration-first era prior to SID v3.0, Root Semantics v2.0,
+  and Triangulation Suite v2.0.
+
+DP-ALT: W0
+DP-LOC: /NDH-PROVENANCE/foundation/archive/
+DP-MAN: inert
+DP-OP-D: descriptive-only archival footer
+
+Anchors:
+  SID Header Standard v3.0 Draft
+  Root Semantics Containment Standard v2.0 Draft
+  Advanced NDH Constellation Rehabilitation Sequencing & Logic Document v1.0
+  NDH-PROVENANCE README v6.0
+  SGDCM v2.0 Reconstruction Suite
+
+Non-Activation Clause:
+  This archival artifact is descriptive-only. It does not activate NDH
+  subsystems, traversal engines, projection geometry, SGDCM routing, or
+  manifold operators.
+
+Version: v1.0 (Archived)
+Maintainer: Borealis S. Hedling
+Location: Naaldwijk, South Holland, Netherlands
+Timestamp: 15 August 2026 — 15:32 IST
+---
+```
+
+---
+
+# ⭐ Guided Next Step  
+Now that the legacy sheet is safely archived, proceed with the next dependency in the rehabilitation sequence:
+
+- **Generate Glyph Metadata Schema v2.0 Draft**
