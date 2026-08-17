@@ -1,0 +1,401 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ndh-constellation.org/schemas/rp-to-tids-pipeline-v1_0.json",
+  "title": "NDH-RP → NDH-TIDS Pipeline Specification v1.0",
+  "description": "Machine-readable schema for the NDH-RESEARCH-PILOT to NDH-TIDS pipeline.",
+  "type": "object",
+  "required": [
+    "version",
+    "altitude_selection",
+    "membrane_definition",
+    "conceptual_domain",
+    "drift_stabilization",
+    "diagnostic_substrate",
+    "tids_ingestion",
+    "comparative_geometry",
+    "harmony_reference",
+    "stability_envelope"
+  ],
+  "properties": {
+    "version": {
+      "type": "string",
+      "const": "v1.0",
+      "description": "Pipeline specification version."
+    },
+
+    "altitude_selection": {
+      "type": "object",
+      "description": "RP-selected altitude configuration.",
+      "required": ["selected_altitude", "allowed_altitudes", "human_anchor", "traversal_can_select"],
+      "properties": {
+        "selected_altitude": {
+          "type": "string",
+          "description": "The active altitude for this pipeline run.",
+          "enum": [
+            "diagnostic",
+            "expressive_clarity",
+            "governance",
+            "principle_space_A13",
+            "principle_space_A14",
+            "construction",
+            "constellation"
+          ]
+        },
+        "allowed_altitudes": {
+          "type": "array",
+          "description": "Altitudes permitted for this pipeline configuration.",
+          "items": {
+            "type": "string",
+            "enum": [
+              "diagnostic",
+              "expressive_clarity",
+              "governance",
+              "principle_space_A13",
+              "principle_space_A14",
+              "construction",
+              "constellation"
+            ]
+          },
+          "minItems": 1
+        },
+        "human_anchor": {
+          "type": "boolean",
+          "const": true,
+          "description": "Indicates altitude is human-selected."
+        },
+        "traversal_can_select": {
+          "type": "boolean",
+          "const": false,
+          "description": "Traversal agents cannot select altitude."
+        }
+      }
+    },
+
+    "membrane_definition": {
+      "type": "object",
+      "description": "RP-defined membrane boundaries.",
+      "required": ["membranes", "ebola_dol_bifurcation"],
+      "properties": {
+        "membranes": {
+          "type": "array",
+          "description": "List of active membranes.",
+          "items": {
+            "type": "string",
+            "enum": [
+              "clarity",
+              "expressive",
+              "governance",
+              "diagnostic",
+              "EBOL",
+              "DOL"
+            ]
+          },
+          "minItems": 1
+        },
+        "ebola_dol_bifurcation": {
+          "type": "object",
+          "description": "Ontology bifurcation state.",
+          "required": ["enabled", "root_base_version"],
+          "properties": {
+            "enabled": {
+              "type": "boolean",
+              "description": "Whether DOL/EBOL bifurcation is active."
+            },
+            "root_base_version": {
+              "type": "string",
+              "description": "Root Base version associated with bifurcation.",
+              "pattern": "^v[0-9]+\\.[0-9]+$"
+            }
+          }
+        }
+      }
+    },
+
+    "conceptual_domain": {
+      "type": "object",
+      "description": "RP-framed conceptual domain.",
+      "required": ["domain_label", "dyadic_structure", "representational_layers", "scope"],
+      "properties": {
+        "domain_label": {
+          "type": "string",
+          "description": "Human-readable name for the conceptual domain."
+        },
+        "dyadic_structure": {
+          "type": "array",
+          "description": "Key dyads (e.g., A13/A14) active in this domain.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "representational_layers": {
+          "type": "array",
+          "description": "List of representational layers involved.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "scope": {
+          "type": "string",
+          "description": "Narrative description of the comparative geometry scope."
+        }
+      }
+    },
+
+    "drift_stabilization": {
+      "type": "object",
+      "description": "RP drift signature detection and stabilization.",
+      "required": ["signatures", "stabilized", "notes"],
+      "properties": {
+        "signatures": {
+          "type": "array",
+          "description": "Detected drift signatures.",
+          "items": {
+            "type": "string",
+            "enum": [
+              "collision",
+              "overload",
+              "destabilization",
+              "unanchored"
+            ]
+          }
+        },
+        "stabilized": {
+          "type": "boolean",
+          "description": "Whether all detected drift signatures are stabilized."
+        },
+        "notes": {
+          "type": "string",
+          "description": "Optional human-readable commentary on drift behavior."
+        }
+      }
+    },
+
+    "diagnostic_substrate": {
+      "type": "object",
+      "description": "RP output substrate passed to TIDS.",
+      "required": [
+        "altitude_selection",
+        "membrane_definition",
+        "conceptual_domain",
+        "drift_stabilization"
+      ],
+      "properties": {
+        "altitude_selection": {
+          "$ref": "#/properties/altitude_selection"
+        },
+        "membrane_definition": {
+          "$ref": "#/properties/membrane_definition"
+        },
+        "conceptual_domain": {
+          "$ref": "#/properties/conceptual_domain"
+        },
+        "drift_stabilization": {
+          "$ref": "#/properties/drift_stabilization"
+        }
+      }
+    },
+
+    "tids_ingestion": {
+      "type": "object",
+      "description": "TIDS ingestion configuration for external systems.",
+      "required": ["external_system_id", "normalized", "normalization_profile"],
+      "properties": {
+        "external_system_id": {
+          "type": "string",
+          "description": "Identifier for the external system being compared."
+        },
+        "normalized": {
+          "type": "boolean",
+          "description": "Whether the external system has been normalized according to TIDS v2.0."
+        },
+        "normalization_profile": {
+          "type": "object",
+          "description": "Altitude and semantic normalization details.",
+          "required": [
+            "structural_altitude",
+            "cognitive_altitude",
+            "philosophical_altitude",
+            "documentation_altitude",
+            "safety_altitude"
+          ],
+          "properties": {
+            "structural_altitude": { "type": "string" },
+            "cognitive_altitude": { "type": "string" },
+            "philosophical_altitude": { "type": "string" },
+            "documentation_altitude": { "type": "string" },
+            "safety_altitude": { "type": "string" }
+          }
+        }
+      }
+    },
+
+    "comparative_geometry": {
+      "type": "object",
+      "description": "TIDS comparative geometry execution state.",
+      "required": [
+        "altitude_map",
+        "semantic_map",
+        "drift_integration",
+        "recursion_risk",
+        "reversible",
+        "json_validated"
+      ],
+      "properties": {
+        "altitude_map": {
+          "type": "array",
+          "description": "Altitude mapping entries.",
+          "items": {
+            "type": "object",
+            "required": ["external_altitude", "harmony_altitude", "mapping_type"],
+            "properties": {
+              "external_altitude": { "type": "string" },
+              "harmony_altitude": { "type": "string" },
+              "mapping_type": {
+                "type": "string",
+                "enum": ["contrastive"]
+              }
+            }
+          }
+        },
+        "semantic_map": {
+          "type": "array",
+          "description": "Semantic mapping entries.",
+          "items": {
+            "type": "object",
+            "required": ["external_category", "harmony_category", "mapping_type"],
+            "properties": {
+              "external_category": { "type": "string" },
+              "harmony_category": { "type": "string" },
+              "mapping_type": {
+                "type": "string",
+                "enum": ["contrastive"]
+              }
+            }
+          }
+        },
+        "drift_integration": {
+          "type": "object",
+          "description": "Integration of RP drift signatures into TIDS geometry.",
+          "required": ["signatures_used"],
+          "properties": {
+            "signatures_used": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "collision",
+                  "overload",
+                  "destabilization",
+                  "unanchored"
+                ]
+              }
+            }
+          }
+        },
+        "recursion_risk": {
+          "type": "string",
+          "description": "Qualitative assessment of recursion risk.",
+          "enum": ["none", "low", "medium", "high"]
+        },
+        "reversible": {
+          "type": "boolean",
+          "description": "Whether the comparative mapping is reversible."
+        },
+        "json_validated": {
+          "type": "boolean",
+          "description": "Whether this pipeline instance has passed JSON schema validation."
+        }
+      }
+    },
+
+    "harmony_reference": {
+      "type": "object",
+      "description": "Harmony boundary conditions for this pipeline.",
+      "required": [
+        "is_reference_object",
+        "self_categorization",
+        "membrane_inversion_forbidden"
+      ],
+      "properties": {
+        "is_reference_object": {
+          "type": "boolean",
+          "const": true,
+          "description": "Harmony must always be the reference object."
+        },
+        "self_categorization": {
+          "type": "boolean",
+          "const": false,
+          "description": "Harmony cannot categorize itself."
+        },
+        "membrane_inversion_forbidden": {
+          "type": "boolean",
+          "const": true,
+          "description": "Harmony’s clarity membrane cannot be inverted by comparative geometry."
+        }
+      }
+    },
+
+    "stability_envelope": {
+      "type": "object",
+      "description": "Encoded stability envelope for this pipeline run.",
+      "required": [
+        "membrane_integrity",
+        "comparative_ingestion_blocked",
+        "altitude_collapse_prevented"
+      ],
+      "properties": {
+        "membrane_integrity": {
+          "type": "boolean",
+          "description": "Whether all membranes remain intact."
+        },
+        "comparative_ingestion_blocked": {
+          "type": "boolean",
+          "description": "Whether Harmony itself is blocked from ingestion."
+        },
+        "altitude_collapse_prevented": {
+          "type": "boolean",
+          "description": "Whether altitude collapse has been prevented."
+        }
+      }
+    }
+  }
+}
+
+
+---
+Artifact: NDH-RP → NDH-TIDS Pipeline JSON Schema (v1.0)
+Lane: NDH-Constellation • Machine-Readable Schemas • Pipeline Architecture
+
+Purpose:
+  Provide the machine-readable schema companion to the NDH-RP → NDH-TIDS
+  Pipeline Specification v1.0. Encodes altitude selection, membrane definition,
+  conceptual domain framing, drift stabilization, diagnostic substrate
+  formation, TIDS ingestion normalization, comparative geometry execution,
+  Harmony reference-object constraints, recursion-prevention rules, and
+  stability envelope encoding. Ensures SID v3.0 structural compliance, Root
+  Base v2.0 semantic alignment, Harmony membrane integrity, and constellation-
+  grade reversible comparative geometry.
+
+Anchors:
+  - NDH-RP → NDH-TIDS Pipeline Specification v1.0
+  - NDH-TIDS Comparative Geometry Specification v2.0
+  - NDH-TIDS JSON Schema v2.1
+  - NDH-TIDS Ingestion Pipeline v1.0
+  - NDH-TIDS Refinement Chain Specification v1.0
+  - Harmony README v1.0
+  - Root Base v2.0 Construction Suite v2.1
+  - SID Header Standard v3.0 (Draft)
+
+Altitude:
+  Machine-Readable Altitude Only. No NDH subsystems, membranes, invariants,
+  routing logic, or comparative geometry engines are activated.
+
+Non-Activation Clause:
+  This schema is structural-only. It does not execute, simulate, or bind any
+  NDH subsystem. All content remains non-operational until invoked by TIDS.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Naaldwijk, South Holland, Netherlands
+Timestamp: 17 August 2026 — 12:31 IST
+---
