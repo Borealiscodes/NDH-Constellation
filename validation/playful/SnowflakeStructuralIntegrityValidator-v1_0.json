@@ -1,0 +1,84 @@
+{
+  "version": "1.0",
+  "artifact": "Snowflake Geometry v1.0",
+  "states": [
+    "INIT",
+    "SYMMETRY_VALIDATION",
+    "ARM_INTEGRITY",
+    "BRANCHING_PATTERN_CHECK",
+    "CURVATURE_BOUNDING",
+    "ALTITUDE_NEUTRALITY",
+    "FREEZE_COMPATIBILITY",
+    "COMPLETE"
+  ],
+  "transitions": {
+    "INIT": "SYMMETRY_VALIDATION",
+    "SYMMETRY_VALIDATION": "ARM_INTEGRITY",
+    "ARM_INTEGRITY": "BRANCHING_PATTERN_CHECK",
+    "BRANCHING_PATTERN_CHECK": "CURVATURE_BOUNDING",
+    "CURVATURE_BOUNDING": "ALTITUDE_NEUTRALITY",
+    "ALTITUDE_NEUTRALITY": "FREEZE_COMPATIBILITY",
+    "FREEZE_COMPATIBILITY": "COMPLETE"
+  },
+  "invariants": {
+    "SYMMETRY_VALIDATION": [
+      "HAS_SIXFOLD_SYMMETRY",
+      "CENTER_STABLE"
+    ],
+    "ARM_INTEGRITY": [
+      "ARMS_NONEMPTY",
+      "ARMS_UNIFORM_LENGTH",
+      "ARMS_UNIFORM_THICKNESS"
+    ],
+    "BRANCHING_PATTERN_CHECK": [
+      "BRANCHES_FRACTAL_LIKE",
+      "NO_SELF_INTERSECTION"
+    ],
+    "CURVATURE_BOUNDING": [
+      "CURVATURE_WITHIN_LIMITS",
+      "NO_SHARP_SINGULARITIES"
+    ],
+    "ALTITUDE_NEUTRALITY": [
+      "PLACED_IN_SURFACE_MANIFOLD"
+    ],
+    "FREEZE_COMPATIBILITY": [
+      "TEMPERATURE_BELOW_FREEZE",
+      "NO_PHASE_DRIFT"
+    ]
+  },
+  "failure_modes": {
+    "HAS_SIXFOLD_SYMMETRY": "Snowflake lacks canonical sixfold symmetry.",
+    "CENTER_STABLE": "Center of snowflake is unstable or malformed.",
+    "ARMS_NONEMPTY": "One or more arms are missing.",
+    "ARMS_UNIFORM_LENGTH": "Arm lengths vary beyond allowed tolerance.",
+    "ARMS_UNIFORM_THICKNESS": "Arm thickness varies beyond allowed tolerance.",
+    "BRANCHES_FRACTAL_LIKE": "Branching pattern is not fractal-like or natural.",
+    "NO_SELF_INTERSECTION": "Branches intersect or overlap in invalid ways.",
+    "CURVATURE_WITHIN_LIMITS": "Curvature exceeds structural integrity bounds.",
+    "NO_SHARP_SINGULARITIES": "Detected singular, non-physical sharp points.",
+    "PLACED_IN_SURFACE_MANIFOLD": "Snowflake not placed in correct surface manifold lane.",
+    "TEMPERATURE_BELOW_FREEZE": "Ambient temperature not below freezing.",
+    "NO_PHASE_DRIFT": "Snowflake geometry drifting due to phase change."
+  }
+}
+
+---
+Artifact: Snowflake Structural Integrity Validator v1.0
+Lane: Validation • Playful Geometry-Checking
+
+Purpose:
+  Provide a playful, NDH-style structural integrity validator for snowflake
+  geometry. Ensures sixfold symmetry, arm integrity, branching coherence,
+  curvature bounds, altitude neutrality, and freeze compatibility without
+  touching NDH manifolds, membranes, or governance altitude.
+
+Non-Activation Clause:
+  This validator is descriptive-only. It does not activate, execute, simulate,
+  or bind any NDH subsystem, governance engine, expressive geometry, manifold
+  traversal, or altitude-routing mechanism.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 18 August 2026 — 16:02 IST
+---
