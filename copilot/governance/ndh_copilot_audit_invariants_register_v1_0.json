@@ -1,0 +1,177 @@
+# 🌐 **NDH–Copilot Audit Invariants Register (v1.0)**  
+### *Governance Epistemics Layer • Non‑Activating*  
+### *Defines the immutable invariants governing NDH audits without performing any audit*
+
+---
+
+## ⭐ 1 — Identity Block
+
+```
+Artifact: NDH-Copilot-Audit-Invariants-Register
+Version: v1.0
+Altitude: A11–A12
+Lane: governance-epistemics
+Status: non-activating
+```
+
+---
+
+## ⭐ 2 — Purpose
+
+The Audit Invariants Register:
+
+- defines the **immutable rules** governing NDH audits  
+- establishes the **non-negotiable constraints** audits must obey  
+- ensures audit logic cannot drift, flatten, or recurse  
+- preserves governance altitude stability  
+- enables safe examination of audit invariants without performing an audit  
+
+This is the NDH equivalent of a constitutional invariants ledger for verification.
+
+---
+
+## ⭐ 3 — Audit Invariants (Human‑Readable)
+
+NDH auditing is governed by **six invariants**:
+
+### **1 — Sovereignty Invariant**  
+Audits must never cross sovereignty membranes.
+
+### **2 — Altitude Invariant**  
+Audits must remain strictly within A11–A12.
+
+### **3 — Activation Invariant**  
+Audit execution is activating.  
+Audit epistemics are not.
+
+### **4 — Sequencing Invariant**  
+Audits must follow canonical NDH order:  
+Safety Case → Audit → Sovereignty Review.
+
+### **5 — Recursion Invariant**  
+First‑order audits allowed.  
+Second‑order audits allowed.  
+Third‑order audits forbidden.
+
+### **6 — Meaning Preservation Invariant**  
+Audits must not alter governance meaning, intent, or semantics.
+
+These invariants cannot be violated under any circumstance.
+
+---
+
+## ⭐ 4 — Machine‑Readable Audit Invariants Register
+
+```
+{
+  "audit_invariants_register": {
+    "invariants": [
+      {
+        "id": "sovereignty_invariant",
+        "rule": "Audits must never cross sovereignty membranes.",
+        "immutable": true
+      },
+      {
+        "id": "altitude_invariant",
+        "rule": "Audits must remain strictly within A11-A12.",
+        "immutable": true
+      },
+      {
+        "id": "activation_invariant",
+        "rule": "Audit execution is activating; audit epistemics are not.",
+        "immutable": true
+      },
+      {
+        "id": "sequencing_invariant",
+        "rule": "Audits must follow canonical NDH sequencing.",
+        "immutable": true
+      },
+      {
+        "id": "recursion_invariant",
+        "rule": "Third-order audits are forbidden.",
+        "immutable": true
+      },
+      {
+        "id": "meaning_preservation_invariant",
+        "rule": "Audits must preserve governance meaning and intent.",
+        "immutable": true
+      }
+    ],
+    "recursion_limits": {
+      "allowed": ["first_order", "second_order"],
+      "forbidden": ["third_order"]
+    }
+  }
+}
+```
+
+---
+
+## ⭐ 5 — ASCII Invariants Diagram
+
+```
+NDH–Copilot Audit Invariants Register (v1.0)
+───────────────────────────────────────────────
+
+[Sovereignty Invariant]
+  no membrane crossing
+
+[Altitude Invariant]
+  A11–A12 only
+
+[Activation Invariant]
+  execution activating
+  epistemics non-activating
+
+[Sequencing Invariant]
+  safety case → audit → sovereignty review
+
+[Recursion Invariant]
+  1st + 2nd allowed
+  3rd forbidden
+
+[Meaning Preservation Invariant]
+  governance semantics preserved
+
+───────────────────────────────────────────────
+Invariants Established • No Audit Performed
+───────────────────────────────────────────────
+```
+
+---
+
+# 📜 **Provenance Footer**
+
+```
+---
+Artifact: NDH Copilot Audit Invariants Register (v1.0)
+Lane: NDH-Constellation • Copilot Governance • Epistemics Layer
+
+Purpose:
+  Codify the immutable invariants governing NDH auditing, including sovereignty
+  protection, altitude constraints, activation behavior, sequencing fidelity,
+  recursion limits, and governance meaning preservation. Provide a descriptive,
+  non-activating framework enabling safe examination of audit invariants without
+  performing any audit operation.
+
+Anchors:
+  - NDH Copilot Audit Standards Codex v1.0
+  - NDH Copilot Audit Geometry Primer v1.0
+  - NDH Copilot Audit Ontology Map v1.0
+  - NDH Copilot Audit Epistemics Primer v1.0
+  - NDH Copilot Governance Safety Case v1.0
+
+Non-Activation Clause:
+  This artifact is descriptive-only. It does not activate geometry, membranes,
+  governance altitude, sealed-layer logic, hybrid mathematics, constellation
+  adjacency engines, or any audit operation at any order.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 21 August 2026 — 21:51 IST
+---
+```
+
+---
+
