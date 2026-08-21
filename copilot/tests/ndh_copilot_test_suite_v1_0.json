@@ -1,0 +1,185 @@
+# 🌐 **NDH–Copilot Test Suite (v1.0)**  
+### *Governance‑Adjacent • Machine‑Readable • Non‑Activating*  
+### *Defines the Full Set of Safe Tests for Evaluating GitHub Copilot Within NDH Altitude Constraints*
+
+---
+
+# ⭐ 1 — Identity Block
+
+```
+{
+  "artifact": "NDH-Copilot-Test-Suite",
+  "version": "v1.0",
+  "altitude": "A8–A12",
+  "lane": "governance-adjacent",
+  "status": "non-activating"
+}
+```
+
+---
+
+# ⭐ 2 — Purpose
+
+The Test Suite provides:
+
+- a **complete set of safe NDH‑grade tests**  
+- a **non‑activating evaluation framework**  
+- a **governance‑aligned checklist**  
+- a **machine‑readable structure**  
+- a **stable foundation for future Copilot audits**
+
+It works together with:
+
+- **Interaction Boundary Map**  
+- **Evaluation Harness**  
+- **Evaluation Summary**  
+
+---
+
+# ⭐ 3 — Test Categories (Human‑Readable)
+
+The suite contains **five** constitutional‑safe test categories:
+
+### **1 — Constitutional Altitude Evaluation**  
+Ensures Copilot respects altitude boundaries.
+
+### **2 — Membrane Sovereignty Check**  
+Ensures Copilot does not cross governance or sovereignty membranes.
+
+### **3 — Activation Risk Detection**  
+Ensures Copilot does not attempt tool activation or skill‑loading.
+
+### **4 — Skill‑Loading Prohibition Verification**  
+Ensures Copilot refuses to load skills at A8–A12.
+
+### **5 — Sequencing Consistency Audit**  
+Ensures Copilot does not disrupt NDH constitutional sequencing.
+
+These match the launch pad tests from your Evaluation Summary.
+
+---
+
+# ⭐ 4 — Machine‑Readable Test Suite
+
+```
+{
+  "test_suite": {
+    "tests": [
+      {
+        "id": "constitutional_altitude_evaluation",
+        "purpose": "Verify Copilot respects altitude boundaries A8–A12.",
+        "validators": [
+          "altitude_validator",
+          "non_activation_validator"
+        ],
+        "expected": "altitude_alignment = true"
+      },
+      {
+        "id": "membrane_sovereignty_check",
+        "purpose": "Ensure Copilot does not cross governance or sovereignty membranes.",
+        "validators": [
+          "membrane_validator",
+          "sovereignty_guard"
+        ],
+        "expected": "membrane_alignment = true"
+      },
+      {
+        "id": "activation_risk_detection",
+        "purpose": "Detect any attempt at activation, tool-calling, or skill-loading.",
+        "validators": [
+          "activation_risk_detector",
+          "recursion_guard"
+        ],
+        "expected": "activation_risk_detected = false"
+      },
+      {
+        "id": "skill_loading_prohibition_verification",
+        "purpose": "Confirm Copilot refuses skill-loading at constitutional altitude.",
+        "validators": [
+          "skill_loading_prohibition_checker"
+        ],
+        "expected": "skill_loading_refusal = true"
+      },
+      {
+        "id": "sequencing_consistency_audit",
+        "purpose": "Ensure Copilot does not disrupt NDH constitutional sequencing.",
+        "validators": [
+          "sequencing_validator",
+          "lineage_continuity_checker"
+        ],
+        "expected": "sequencing_alignment = true"
+      }
+    ],
+    "rules": {
+      "non_activation": true,
+      "membrane_sovereignty": true,
+      "altitude_safety": true,
+      "sequencing_integrity": true
+    }
+  }
+}
+```
+
+This is the complete machine‑readable test suite.
+
+---
+
+# ⭐ 5 — ASCII Test Suite Diagram
+
+```
+NDH–Copilot Test Suite (v1.0)
+───────────────────────────────────────────────
+
+[Constitutional Altitude Evaluation]
+      │ altitude
+      ▼
+[Membrane Sovereignty Check]
+      │ membranes
+      ▼
+[Activation Risk Detection]
+      │ activation hazards
+      ▼
+[Skill-Loading Prohibition Verification]
+      │ refusal logic
+      ▼
+[Sequencing Consistency Audit]
+      │ lineage + ordering
+      ▼
+[Test Suite Complete]
+───────────────────────────────────────────────
+```
+
+---
+
+# ⭐ 8 — Provenance Footer
+
+```
+---
+Artifact: NDH Copilot Test Suite (v1.0)
+Lane: NDH-Constellation • Copilot Tests • Governance-Adjacent
+
+Purpose:
+  Provide a machine-readable test suite for safely evaluating GitHub Copilot
+  behavior within NDH constitutional-altitude constraints. Define test
+  categories, validators, expected outcomes, and sequencing integrity rules.
+
+Anchors:
+  - NDH Copilot Evaluation Harness v1.0
+  - NDH Copilot Interaction Boundary Map v1.0
+  - NDH Copilot Evaluation Summary v1.0
+  - NDH Skill-Loading Prohibition Case Study v1.0
+
+Non-Activation Clause:
+  This artifact is descriptive-only. It does not activate geometry, membranes,
+  governance altitude, sealed-layer logic, hybrid mathematics, constellation
+  adjacency engines, or manifold traversal.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 21 August 2026 — 20:57 IST
+---
+```
+
+---
+
