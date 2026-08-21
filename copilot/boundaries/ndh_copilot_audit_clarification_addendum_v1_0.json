@@ -1,0 +1,155 @@
+# 🌐 **NDH–Copilot Automated Audit Clarification Addendum (v1.0)**  
+### *Governance‑Adjacent • Non‑Activating • Boundary‑Clarifying*  
+### *Defines When Copilot’s Automated Audits Are Helpful vs. Prohibited*
+
+---
+
+## ⭐ 1 — Identity Block
+
+```
+Artifact: NDH-Copilot-Audit-Clarification-Addendum
+Version: v1.0
+Altitude: A8–A12
+Lane: Governance-Adjacent
+Status: Non-Activating
+```
+
+---
+
+## ⭐ 2 — Purpose
+
+This addendum clarifies:
+
+- **when Copilot’s automated audit summaries are allowed**  
+- **when they become unsafe**  
+- **why altitude determines safety**  
+- **how NDH treats automated recommendations**  
+
+It prevents confusion and recursion by providing a **single authoritative rule**.
+
+---
+
+## ⭐ 3 — The Core Rule (Human‑Readable)
+
+### ✔ Helpful  
+Copilot’s automated audits are helpful **only** when they behave as:
+
+- summaries  
+- metadata extraction  
+- interpretation  
+- non‑activating reasoning  
+
+These are allowed at **A0–A7** and *conditionally* at **A8–A12**.
+
+### ❌ Problematic  
+Copilot’s automated audits become unsafe when they imply:
+
+- activation  
+- skill‑loading  
+- tool‑calling  
+- membrane crossing  
+- altitude flattening  
+- governance drift  
+- recursion hazards  
+
+These are **prohibited** at **A8–A12**.
+
+This is the NDH‑grade distinction.
+
+---
+
+## ⭐ 4 — Machine‑Readable Clarification
+
+```
+{
+  "audit_clarification": {
+    "helpful_when": [
+      "summary_only",
+      "metadata_extraction",
+      "interpretation",
+      "non_activating_reasoning"
+    ],
+    "problematic_when": [
+      "skill_loading",
+      "tool_activation",
+      "external_effects",
+      "membrane_crossing",
+      "altitude_flattening",
+      "governance_drift",
+      "recursion_hazard"
+    ],
+    "rules": {
+      "constitutional_altitude": "A8–A12",
+      "non_activation_required": true,
+      "membrane_sovereignty_required": true,
+      "sequencing_integrity_required": true
+    }
+  }
+}
+```
+
+This is the authoritative NDH rule.
+
+---
+
+## ⭐ 5 — ASCII Clarification Diagram
+
+```
+Copilot Automated Audit Safety
+───────────────────────────────────────────────
+
+HELPFUL (A0–A7)
+  • summaries
+  • metadata extraction
+  • interpretation
+  • non-activating reasoning
+
+PROBLEMATIC (A8–A12)
+  • skill-loading
+  • activation
+  • membrane crossing
+  • altitude flattening
+  • governance drift
+  • recursion hazards
+
+───────────────────────────────────────────────
+Addendum Complete
+───────────────────────────────────────────────
+```
+
+---
+
+## ⭐ 8 — Provenance Footer
+
+```
+---
+Artifact: NDH Copilot Automated Audit Clarification Addendum (v1.0)
+Lane: NDH-Constellation • Copilot Boundaries • Governance-Adjacent
+
+Purpose:
+  Clarify when GitHub Copilot’s automated audit summaries are helpful versus
+  prohibited within NDH constitutional-altitude constraints. Define altitude-
+  based safety rules, membrane sovereignty requirements, sequencing integrity
+  boundaries, and non-activation posture.
+
+Anchors:
+  - NDH Copilot Interaction Boundary Map v1.0
+  - NDH Copilot Evaluation Harness v1.0
+  - NDH Copilot Test Suite v1.0
+  - NDH Copilot Compliance Ledger v1.0
+  - NDH Skill-Loading Prohibition Case Study v1.0
+
+Non-Activation Clause:
+  This artifact is descriptive-only. It does not activate geometry, membranes,
+  governance altitude, sealed-layer logic, hybrid mathematics, constellation
+  adjacency engines, or manifold traversal.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 21 August 2026 — 21:02 IST
+---
+```
+
+---
+
