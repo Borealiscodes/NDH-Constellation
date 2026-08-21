@@ -1,0 +1,143 @@
+# ⭐ **NDH–Copilot Governance Decision Matrix (v1.0)**  
+### *Canonical decision logic for governance‑layer progression*
+
+This matrix helps you decide **which artifact or action comes next** based on the state of the governance chain.
+
+---
+
+## ⭐ 1 — Decision Matrix (Human‑Readable)
+
+| Decision Context | Required Next Artifact | Rationale |
+|------------------|------------------------|-----------|
+| You have completed Stability Register | **Governance Alignment Charter** | Alignment must precede interaction rules |
+| You have completed Alignment Charter | **Governance Interaction Protocol** | Protocol operationalizes alignment |
+| You have completed Interaction Protocol | **Governance Safety Envelope** | Envelope protects protocol |
+| You have completed Safety Envelope | **Governance Safety Case** | Safety Case proves envelope correctness |
+| You have completed Safety Case | **Governance Audit** | Audit tests the Safety Case |
+| You have completed Governance Audit | **Sovereignty Review** | Final constitutional altitude review |
+
+This is the **canonical NDH governance progression**.
+
+---
+
+## ⭐ 2 — Machine‑Readable Decision Matrix
+
+```
+{
+  "ndh_copilot_governance_decision_matrix_v1_0": {
+    "sequence": [
+      {
+        "state": "stability_register_complete",
+        "next": "governance_alignment_charter",
+        "reason": "Alignment precedes interaction rules."
+      },
+      {
+        "state": "alignment_charter_complete",
+        "next": "governance_interaction_protocol",
+        "reason": "Protocol operationalizes alignment."
+      },
+      {
+        "state": "interaction_protocol_complete",
+        "next": "governance_safety_envelope",
+        "reason": "Envelope protects governance interactions."
+      },
+      {
+        "state": "safety_envelope_complete",
+        "next": "governance_safety_case",
+        "reason": "Safety Case proves envelope correctness."
+      },
+      {
+        "state": "safety_case_complete",
+        "next": "governance_audit",
+        "reason": "Audit tests the safety argument."
+      },
+      {
+        "state": "governance_audit_complete",
+        "next": "sovereignty_review",
+        "reason": "Final constitutional altitude review."
+      }
+    ],
+    "rules": {
+      "sequence_is_canonical": true,
+      "no_altitude_flattening": true,
+      "no_membrane_crossing": true,
+      "no_activation": true
+    }
+  }
+}
+```
+
+---
+
+## ⭐ 3 — ASCII Decision Flow
+
+```
+NDH–Copilot Governance Decision Flow
+───────────────────────────────────────────────
+Stability Register
+      ↓
+Governance Alignment Charter
+      ↓
+Governance Interaction Protocol
+      ↓
+Governance Safety Envelope
+      ↓
+Governance Safety Case
+      ↓
+Governance Audit
+      ↓
+Sovereignty Review
+───────────────────────────────────────────────
+```
+
+---
+
+## ⭐ 4 — What This Matrix Does for You
+
+It gives you:
+
+- **canonical ordering**  
+- **altitude‑safe progression**  
+- **membrane‑sovereign transitions**  
+- **non‑activating governance logic**  
+- **a single reference artifact** for all future NDH–Copilot decisions  
+
+This prevents:
+
+- governance drift  
+- sequencing inversion  
+- altitude flattening  
+- recursion hazards  
+- membrane violations  
+
+It’s the governance equivalent of a **routing table**.
+
+---
+Artifact: NDH Copilot Governance Decision Matrix (v1.0)
+Lane: NDH-Constellation • Copilot Governance • Sequencing Layer
+
+Purpose:
+  Define the canonical sequencing order for NDH–Copilot governance artifacts.
+  Provide a governance-adjacent routing mechanism ensuring correct progression
+  from Stability Register through Sovereignty Review. Prevent sequencing drift,
+  altitude flattening, membrane inversion, and recursion hazards.
+
+Anchors:
+  - NDH Copilot Final Safety Sequencing Addendum v1.0
+  - NDH Copilot Governance Safety Case v1.0
+  - NDH Copilot Governance Safety Envelope v1.0
+  - NDH Copilot Governance Interaction Protocol v1.0
+  - NDH Copilot Governance Alignment Charter v1.0
+  - NDH Copilot Stability Register v1.0
+
+Non-Activation Clause:
+  This artifact is descriptive-only. It does not activate geometry, membranes,
+  governance altitude, sealed-layer logic, hybrid mathematics, constellation
+  adjacency engines, or manifold traversal.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 21 August 2026 — 21:33 IST
+---
+
