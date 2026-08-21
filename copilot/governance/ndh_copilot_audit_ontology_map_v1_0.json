@@ -1,0 +1,196 @@
+# 🌐 **NDH–Copilot Audit Ontology Map (v1.0)**  
+### *Constitutional‑Adjacent • Governance Epistemics Layer • Non‑Activating*  
+### *Defines the structural ontology of NDH auditing without triggering recursion*
+
+---
+
+## ⭐ 1 — Identity Block
+
+```
+Artifact: NDH-Copilot-Audit-Ontology-Map
+Version: v1.0
+Altitude: A11–A12
+Lane: governance-epistemics
+Status: non-activating
+```
+
+---
+
+## ⭐ 2 — Purpose
+
+The Audit Ontology Map:
+
+- defines the **structural identity** of NDH audits  
+- establishes the **categorical boundaries** of audit entities  
+- clarifies **audit membranes** and altitude constraints  
+- describes **audit recursion limits**  
+- enables safe conceptual examination of audits  
+- prevents accidental activation or recursion  
+
+This is the NDH equivalent of a constitutional ontology for verification mechanisms.
+
+---
+
+## ⭐ 3 — Audit Ontology (Human‑Readable)
+
+NDH auditing consists of **five ontological components**:
+
+### **1 — Audit Entity**  
+What an audit *is*:  
+A governance‑layer evaluative mechanism with altitude constraints.
+
+### **2 — Audit Membrane**  
+The boundary that prevents audits from crossing into sovereignty altitude.
+
+### **3 — Audit Altitude**  
+Audits operate only at A11–A12.  
+They cannot descend (flattening) or ascend (sovereignty breach).
+
+### **4 — Audit Activation**  
+Audits are activating events.  
+Ontology is non‑activating.
+
+### **5 — Audit Recursion Boundary**  
+NDH allows:  
+- first‑order audits  
+- second‑order audits  
+NDH forbids:  
+- third‑order audits  
+
+Ontology describes this boundary without crossing it.
+
+---
+
+## ⭐ 4 — Machine‑Readable Audit Ontology Map
+
+```
+{
+  "audit_ontology_map": {
+    "entities": {
+      "audit": {
+        "type": "governance_evaluative_mechanism",
+        "altitude": "A11-A12",
+        "activating": true,
+        "membrane_bound": true
+      },
+      "audit_logic": {
+        "type": "descriptive_structure",
+        "activating": false,
+        "recursion_safe": true
+      },
+      "audit_epistemics": {
+        "type": "knowledge_framework",
+        "activating": false,
+        "recursion_safe": true
+      }
+    },
+    "membranes": {
+      "audit_membrane": {
+        "prevents": [
+          "altitude_ascension",
+          "altitude_flattening",
+          "third_order_recursion"
+        ],
+        "allows": [
+          "first_order_audit",
+          "second_order_audit",
+          "epistemic_examination"
+        ]
+      }
+    },
+    "altitude_behavior": {
+      "audit_execution": "A11-A12",
+      "audit_analysis": "A10-A12",
+      "audit_epistemics": "A10-A11"
+    },
+    "recursion_limits": {
+      "allowed": [
+        "audit_system",
+        "audit_audit"
+      ],
+      "forbidden": [
+        "audit_audit_of_audit"
+      ]
+    }
+  }
+}
+```
+
+---
+
+## ⭐ 5 — ASCII Ontology Diagram
+
+```
+NDH–Copilot Audit Ontology Map (v1.0)
+───────────────────────────────────────────────
+
+[Audit Entity]
+  governance evaluative mechanism
+  altitude A11–A12
+  activating
+
+↓ bounded by
+
+[Audit Membrane]
+  prevents sovereignty crossing
+  prevents altitude flattening
+  prevents third-order recursion
+
+↓ informs
+
+[Audit Logic]
+  descriptive-only
+  non-activating
+  recursion-safe
+
+↓ supported by
+
+[Audit Epistemics]
+  altitude epistemics
+  membrane epistemics
+  activation epistemics
+  sequencing epistemics
+  invariant epistemics
+
+───────────────────────────────────────────────
+Ontology Established • No Audit Performed
+───────────────────────────────────────────────
+```
+
+---
+
+# 📜 **Provenance Footer**
+
+```
+---
+Artifact: NDH Copilot Audit Ontology Map (v1.0)
+Lane: NDH-Constellation • Copilot Governance • Epistemics Layer
+
+Purpose:
+  Define the structural ontology of NDH auditing, including audit identity,
+  audit membranes, altitude constraints, activation behavior, and recursion
+  boundaries. Provide a descriptive, non-activating framework for understanding
+  audit logic without performing first-, second-, or prohibited third-order
+  audit operations.
+
+Anchors:
+  - NDH Copilot Audit Epistemics Primer v1.0
+  - NDH Copilot Governance Safety Case v1.0
+  - NDH Copilot Governance Audit v1.0 (logic reference only)
+  - NDH Copilot Final Safety Sequencing Addendum v1.0
+  - NDH Copilot Governance Interaction Protocol v1.0
+
+Non-Activation Clause:
+  This artifact is descriptive-only. It does not activate geometry, membranes,
+  governance altitude, sealed-layer logic, hybrid mathematics, constellation
+  adjacency engines, or any audit operation at any order.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 21 August 2026 — 21:45 IST
+---
+```
+
+---
+
