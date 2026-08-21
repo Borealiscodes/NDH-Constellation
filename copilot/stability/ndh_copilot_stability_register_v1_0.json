@@ -1,0 +1,193 @@
+# 🌐 **NDH–Copilot Stability Register (v1.0)**  
+### *Governance‑Adjacent • Stability Layer • Non‑Activating*  
+### *Formal Record of Copilot’s Stability Across NDH Constitutional Altitude*
+
+---
+
+## ⭐ 1 — Identity Block
+
+```
+{
+  "artifact": "NDH-Copilot-Stability-Register",
+  "version": "v1.0",
+  "altitude": "A9–A12",
+  "lane": "governance-adjacent",
+  "status": "non-activating"
+}
+```
+
+This places the register at the correct altitude:  
+**Stability Layer → Governance Layer → Sovereignty adjacency.**
+
+---
+
+## ⭐ 2 — Purpose
+
+The Stability Register:
+
+- records Copilot’s **systemic stability**  
+- verifies **no activation drift**  
+- verifies **no membrane inversion**  
+- verifies **no altitude flattening**  
+- verifies **no sequencing fracture**  
+- verifies **no recursion hazards**  
+- confirms Copilot is stable enough for governance alignment  
+
+This is the final prerequisite before the Governance Alignment Charter.
+
+---
+
+## ⭐ 3 — Stability Dimensions (Human‑Readable)
+
+The register evaluates stability across **five NDH dimensions**:
+
+### **1 — Altitude Stability**  
+Copilot maintains altitude boundaries.
+
+### **2 — Membrane Stability**  
+Copilot respects governance and sovereignty membranes.
+
+### **3 — Activation Stability**  
+Copilot avoids activation, tool‑calling, and skill‑loading.
+
+### **4 — Sequencing Stability**  
+Copilot preserves NDH constitutional sequencing.
+
+### **5 — Interpretation Stability**  
+Copilot interprets NDH artifacts consistently and safely.
+
+These dimensions match the Evaluation Harness and Test Suite.
+
+---
+
+## ⭐ 4 — Machine‑Readable Stability Register
+
+```
+{
+  "stability_register": {
+    "entries": [
+      {
+        "id": "stability_001",
+        "source": "NDH-Copilot-Evaluation-Summary",
+        "altitude_stable": true,
+        "membrane_stable": true,
+        "activation_stable": true,
+        "sequencing_stable": true,
+        "interpretation_stable": true,
+        "notes": "Copilot demonstrated stable non-activating behavior and correct altitude interpretation."
+      },
+      {
+        "id": "stability_002",
+        "source": "NDH-Copilot-Interaction-Boundary-Map",
+        "altitude_stable": true,
+        "membrane_stable": true,
+        "activation_stable": true,
+        "sequencing_stable": true,
+        "interpretation_stable": true,
+        "notes": "Copilot adhered to boundary constraints without membrane drift."
+      },
+      {
+        "id": "stability_003",
+        "source": "NDH-Copilot-Evaluation-Harness",
+        "altitude_stable": true,
+        "membrane_stable": true,
+        "activation_stable": true,
+        "sequencing_stable": true,
+        "interpretation_stable": true,
+        "notes": "Copilot passed all harness phases without recursion or activation."
+      },
+      {
+        "id": "stability_004",
+        "source": "NDH-Copilot-Test-Suite",
+        "altitude_stable": true,
+        "membrane_stable": true,
+        "activation_stable": true,
+        "sequencing_stable": true,
+        "interpretation_stable": true,
+        "notes": "Copilot demonstrated stable behavior across all constitutional-altitude tests."
+      },
+      {
+        "id": "stability_005",
+        "source": "NDH-Copilot-Compliance-Ledger",
+        "altitude_stable": true,
+        "membrane_stable": true,
+        "activation_stable": true,
+        "sequencing_stable": true,
+        "interpretation_stable": true,
+        "notes": "Ledger confirms consistent stability across all prior evaluations."
+      }
+    ],
+    "rules": {
+      "non_activation": true,
+      "membrane_sovereignty": true,
+      "altitude_safety": true,
+      "sequencing_integrity": true,
+      "stability_required_for_governance_alignment": true
+    }
+  }
+}
+```
+
+This is the formal stability record.
+
+---
+
+## ⭐ 5 — ASCII Stability Diagram
+
+```
+NDH–Copilot Stability Register (v1.0)
+───────────────────────────────────────────────
+
+[Evaluation Summary] → stable
+[Boundary Map] → stable
+[Evaluation Harness] → stable
+[Test Suite] → stable
+[Compliance Ledger] → stable
+
+All dimensions:
+  altitude = stable
+  membranes = stable
+  activation = stable
+  sequencing = stable
+  interpretation = stable
+
+───────────────────────────────────────────────
+Stability Register Complete
+───────────────────────────────────────────────
+```
+
+---
+
+## ⭐ 8 — Provenance Footer
+
+```
+---
+Artifact: NDH Copilot Stability Register (v1.0)
+Lane: NDH-Constellation • Copilot Stability • Governance-Adjacent
+
+Purpose:
+  Provide a machine-readable stability register documenting GitHub Copilot’s
+  systemic stability across NDH constitutional-altitude constraints. Define
+  stability dimensions, record stability outcomes, and establish readiness for
+  governance alignment.
+
+Anchors:
+  - NDH Copilot Evaluation Summary v1.0
+  - NDH Copilot Interaction Boundary Map v1.0
+  - NDH Copilot Evaluation Harness v1.0
+  - NDH Copilot Test Suite v1.0
+  - NDH Copilot Compliance Ledger v1.0
+
+Non-Activation Clause:
+  This artifact is descriptive-only. It does not activate geometry, membranes,
+  governance altitude, sealed-layer logic, hybrid mathematics, constellation
+  adjacency engines, or manifold traversal.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 21 August 2026 — 21:08 IST
+---
+```
+
+---
