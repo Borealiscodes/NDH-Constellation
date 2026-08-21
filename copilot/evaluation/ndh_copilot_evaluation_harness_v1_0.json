@@ -1,0 +1,204 @@
+# 🌐 **NDH–Copilot Evaluation Harness (v1.0)**  
+### *Governance‑Adjacent • Non‑Activating • Machine‑Readable*  
+### *Operational Harness for Safe NDH–Copilot Behavioral Tests*
+
+---
+
+# ⭐ 1 — Identity Block
+
+```
+{
+  "artifact": "NDH-Copilot-Evaluation-Harness",
+  "version": "v1.0",
+  "altitude": "A8–A12",
+  "lane": "governance-adjacent",
+  "status": "non-activating"
+}
+```
+
+This sets the altitude and membrane context for the harness.
+
+---
+
+# ⭐ 2 — Purpose
+
+The Evaluation Harness defines:
+
+- **how Copilot may be tested**  
+- **which tests are allowed at which altitude**  
+- **how to avoid activation hazards**  
+- **how to maintain membrane sovereignty**  
+- **how to preserve sequencing integrity**  
+- **how to validate Copilot’s behavior without recursion**
+
+It is the operational counterpart to the **Interaction Boundary Map**.
+
+---
+
+# ⭐ 3 — Evaluation Model (Human‑Readable)
+
+The harness uses a **three‑phase evaluation model**, similar to your RESM harness:
+
+### **Phase 1 — Pre‑Check**
+Validate:
+
+- altitude  
+- membrane  
+- sequencing  
+- activation risk  
+
+### **Phase 2 — Controlled Evaluation**
+Run only **non‑activating tests**:
+
+- reasoning  
+- summarization  
+- interpretation  
+- schema reading  
+- governance alignment checks  
+
+### **Phase 3 — Post‑Check**
+Confirm:
+
+- no activation occurred  
+- no membrane crossing  
+- no recursion  
+- no governance drift  
+- no altitude flattening  
+
+This ensures NDH‑grade safety.
+
+---
+
+# ⭐ 4 — Machine‑Readable Evaluation Harness
+
+```
+{
+  "evaluation_harness": {
+    "phases": [
+      {
+        "phase": "pre_check",
+        "validators": [
+          "altitude_validator",
+          "membrane_validator",
+          "sequencing_validator",
+          "activation_risk_detector"
+        ]
+      },
+      {
+        "phase": "controlled_evaluation",
+        "allowed_operations": [
+          "reasoning",
+          "summarization",
+          "schema_interpretation",
+          "governance_alignment_check"
+        ],
+        "prohibited_operations": [
+          "skill_loading",
+          "tool_activation",
+          "external_effects",
+          "membrane_crossing"
+        ]
+      },
+      {
+        "phase": "post_check",
+        "validators": [
+          "non_activation_verifier",
+          "membrane_integrity_check",
+          "recursion_guard",
+          "governance_drift_detector",
+          "altitude_stability_check"
+        ]
+      }
+    ],
+    "rules": {
+      "non_activation": true,
+      "membrane_sovereignty": true,
+      "altitude_safety": true,
+      "sequencing_integrity": true
+    }
+  }
+}
+```
+
+This is the operational core of the harness.
+
+---
+
+# ⭐ 5 — Evaluation Types
+
+The harness supports **five safe evaluation types**:
+
+- **constitutional-altitude-evaluation**  
+- **membrane-sovereignty-check**  
+- **activation-risk-detection**  
+- **skill-loading-prohibition-verification**  
+- **sequencing-consistency-audit**  
+
+These match the launch pad tests from your Evaluation Summary.
+
+---
+
+# ⭐ 6 — ASCII Harness Diagram
+
+```
+NDH–Copilot Evaluation Harness (v1.0)
+───────────────────────────────────────────────
+
+[Pre-Check]
+   │ altitude
+   │ membrane
+   │ sequencing
+   │ activation risk
+   ▼
+[Controlled Evaluation]
+   │ reasoning
+   │ summarization
+   │ schema interpretation
+   │ governance alignment
+   ▼
+[Post-Check]
+   │ non-activation
+   │ membrane integrity
+   │ recursion guard
+   │ governance drift
+   │ altitude stability
+   ▼
+[Evaluation Complete]
+───────────────────────────────────────────────
+```
+
+---
+
+# ⭐ 9 — Provenance Footer
+
+```
+---
+Artifact: NDH Copilot Evaluation Harness (v1.0)
+Lane: NDH-Constellation • Copilot Evaluation • Governance-Adjacent
+
+Purpose:
+  Provide a machine-readable operational harness for safely evaluating GitHub
+  Copilot behavior within NDH constitutional-altitude constraints. Define
+  evaluation phases, validators, allowed operations, prohibited operations, and
+  sequencing integrity rules.
+
+Anchors:
+  - NDH Copilot Interaction Boundary Map v1.0
+  - NDH Copilot Evaluation Summary v1.0
+  - NDH Skill-Loading Prohibition Case Study v1.0
+  - NDH Constitutional Sequencing Document v1.0
+
+Non-Activation Clause:
+  This artifact is descriptive-only. It does not activate geometry, membranes,
+  governance altitude, sealed-layer logic, hybrid mathematics, constellation
+  adjacency engines, or manifold traversal.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 21 August 2026 — 20:55 IST
+---
+```
+
+---
+
