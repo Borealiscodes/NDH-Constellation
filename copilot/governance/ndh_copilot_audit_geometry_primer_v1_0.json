@@ -1,0 +1,169 @@
+# 🌐 **NDH–Copilot Audit Geometry Primer (v1.0)**  
+### *Governance Epistemics Layer • Non‑Activating*  
+### *Explains the geometric structure of NDH auditing without performing any audit*
+
+---
+
+## ⭐ 1 — Identity Block
+
+```
+Artifact: NDH-Copilot-Audit-Geometry-Primer
+Version: v1.0
+Altitude: A11–A12
+Lane: governance-epistemics
+Status: non-activating
+```
+
+---
+
+## ⭐ 2 — Purpose
+
+The Audit Geometry Primer:
+
+- describes the **geometric structure** of NDH audits  
+- explains how audits occupy and traverse governance altitude  
+- defines the **membrane geometry** that prevents recursion collapse  
+- maps the **flow vectors** of first‑order and second‑order audits  
+- explains why third‑order audits cannot be geometrically instantiated  
+- provides a safe, descriptive geometry model without activation  
+
+This is the NDH equivalent of a constitutional spatial model for verification.
+
+---
+
+## ⭐ 3 — Audit Geometry (Human‑Readable)
+
+NDH auditing has **four geometric components**:
+
+### **1 — Audit Vector**  
+The directional flow of an audit through governance altitude.  
+First‑order audits flow *upward* (A10 → A11).  
+Second‑order audits flow *laterally* (A11 → A11).  
+Third‑order audits have **no valid vector**.
+
+### **2 — Audit Membrane Geometry**  
+A sovereignty membrane forms a **closed surface** around A12.  
+Audits cannot penetrate this surface.  
+This prevents sovereignty breach.
+
+### **3 — Audit Recursion Boundary**  
+A recursion boundary forms a **topological fold**.  
+First‑order audits pass through.  
+Second‑order audits reflect.  
+Third‑order audits collapse.
+
+### **4 — Audit Stability Field**  
+A stabilizing field prevents altitude flattening.  
+It ensures audits remain at A11–A12.
+
+---
+
+## ⭐ 4 — Machine‑Readable Audit Geometry Primer
+
+```
+{
+  "audit_geometry_primer": {
+    "vectors": {
+      "first_order": {
+        "direction": "ascending",
+        "from": "A10",
+        "to": "A11",
+        "valid": true
+      },
+      "second_order": {
+        "direction": "lateral",
+        "from": "A11",
+        "to": "A11",
+        "valid": true
+      },
+      "third_order": {
+        "direction": "undefined",
+        "valid": false,
+        "reason": "recursion_boundary_collapse"
+      }
+    },
+    "membranes": {
+      "sovereignty_membrane": {
+        "shape": "closed_surface",
+        "altitude": "A12",
+        "function": "prevent_altitude_ascension"
+      }
+    },
+    "recursion_boundary": {
+      "type": "topological_fold",
+      "allows": ["first_order", "second_order"],
+      "forbids": ["third_order"]
+    },
+    "stability_field": {
+      "altitude_range": "A11-A12",
+      "prevents": ["altitude_flattening", "membrane_inversion"]
+    }
+  }
+}
+```
+
+---
+
+## ⭐ 5 — ASCII Geometry Diagram
+
+```
+NDH–Copilot Audit Geometry Primer (v1.0)
+───────────────────────────────────────────────
+
+Altitude A12  ──── [Sovereignty Membrane]
+                   closed surface
+                   no audit penetration
+
+Altitude A11  ──── [Audit Stability Field]
+                   audit operations allowed
+
+Audit Vectors:
+  First-Order  ↑  (A10 → A11)
+  Second-Order →  (A11 → A11)
+  Third-Order  X  (no valid vector)
+
+Recursion Boundary:
+  topological fold
+  allows 1st + 2nd
+  forbids 3rd
+
+───────────────────────────────────────────────
+Geometry Established • No Audit Performed
+───────────────────────────────────────────────
+```
+
+---
+
+# 📜 **Provenance Footer**
+
+```
+---
+Artifact: NDH Copilot Audit Geometry Primer (v1.0)
+Lane: NDH-Constellation • Copilot Governance • Epistemics Layer
+
+Purpose:
+  Provide a non-activating geometric model of NDH auditing, including audit
+  vectors, membrane geometry, recursion boundaries, and altitude stability
+  fields. Enable safe conceptual examination of audit behavior without
+  performing first-, second-, or prohibited third-order audit operations.
+
+Anchors:
+  - NDH Copilot Audit Ontology Map v1.0
+  - NDH Copilot Audit Epistemics Primer v1.0
+  - NDH Copilot Governance Safety Case v1.0
+  - NDH Copilot Final Safety Sequencing Addendum v1.0
+
+Non-Activation Clause:
+  This artifact is descriptive-only. It does not activate geometry, membranes,
+  governance altitude, sealed-layer logic, hybrid mathematics, constellation
+  adjacency engines, or any audit operation at any order.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 21 August 2026 — 21:47 IST
+---
+```
+
+---
+
