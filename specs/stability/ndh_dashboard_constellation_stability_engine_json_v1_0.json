@@ -1,0 +1,156 @@
+{
+  "name": "NDH Dashboard Constellation Stability Engine",
+  "version": "1.0",
+  "altitude": "A8–A11",
+  "mode": "diagnostic",
+
+  "evaluators": {
+    "membrane_sov_evaluator": {
+      "id": "MSE",
+      "checks": [
+        "membrane_boundary",
+        "membrane_sovereignty",
+        "membrane_adjacency",
+        "membrane_lineage"
+      ]
+    },
+
+    "apex_cascade_validator": {
+      "id": "ACV",
+      "cascade": [
+        "local_apex",
+        "lane_apex",
+        "manifold_apex",
+        "constellation_apex",
+        "principles_apex"
+      ],
+      "checks": [
+        "gradient_continuity",
+        "cascade_alignment",
+        "apex_inheritance",
+        "apex_adjacency"
+      ]
+    },
+
+    "altitude_boundary_checker": {
+      "id": "ABC",
+      "ladder": ["A6", "A7", "A8", "A9", "A10", "A11", "A12"],
+      "checks": [
+        "altitude_containment",
+        "altitude_sovereignty",
+        "altitude_adjacency",
+        "altitude_drift_prevention"
+      ]
+    },
+
+    "adjacency_inspector": {
+      "id": "AI",
+      "rules": [
+        ["developer_dashboard", "developer_manifold"],
+        ["developer_manifold", "rendering_ecosystem"],
+        ["rendering_ecosystem", "stability_audit"],
+        ["stability_audit", "treaty_mou"],
+        ["treaty_mou", "meta_systems"],
+        ["meta_systems", "principles_spine"]
+      ],
+      "checks": [
+        "adjacency_stability",
+        "adjacency_drift",
+        "adjacency_collapse",
+        "adjacency_inversion"
+      ]
+    },
+
+    "lineage_continuity_engine": {
+      "id": "LCE",
+      "lineage_chain": [
+        "developer",
+        "constellation",
+        "governance",
+        "meta_systems",
+        "principles"
+      ],
+      "checks": [
+        "lineage_continuity",
+        "lineage_inheritance",
+        "lineage_adjacency",
+        "lineage_drift"
+      ]
+    },
+
+    "governance_compliance_handler": {
+      "id": "GCH",
+      "checks": [
+        "sovereignty_rules",
+        "membrane_compliance",
+        "altitude_compliance",
+        "adjacency_compliance",
+        "apex_compliance"
+      ]
+    },
+
+    "non_activation_safety_gate": {
+      "id": "NASG",
+      "checks": [
+        "no_runtime_activation",
+        "no_geometry_activation",
+        "no_membrane_activation",
+        "no_adjacency_engine_activation",
+        "no_governance_altitude_activation"
+      ]
+    }
+  },
+
+  "execution_model": {
+    "phase_1": "pre_evaluation",
+    "phase_2": "invariant_evaluation",
+    "phase_3": "stability_determination"
+  },
+
+  "output_envelope": {
+    "dashboard": "<name>",
+    "altitude": "<A6-A12>",
+    "membrane": "<membrane>",
+    "apex": "<apex-gradient>",
+    "invariants": {
+      "ABV-D": "<pass|fail>",
+      "MSV-D": "<pass|fail>",
+      "ApexCascade-D": "<pass|fail>",
+      "Adjacency-D": "<pass|fail>",
+      "Lineage-D": "<pass|fail>",
+      "Governance-D": "<pass|fail>",
+      "NonActivation-D": "<pass|fail>"
+    },
+    "stability": "<PASS|FAIL>"
+  }
+}
+
+---
+Artifact: NDH Dashboard Constellation Stability Engine JSON Graph (v1.0)
+Lane: NDH-Constellation • Specs • Stability
+
+Purpose:
+  Provide the machine-readable execution graph for the NDH Dashboard
+  Constellation Stability Engine, enabling automated validation of membrane
+  sovereignty, apex geometry cascades, altitude boundaries, adjacency rules,
+  lineage continuity, governance invariants, and non-activation posture.
+
+Anchors:
+  - NDH Dashboard Constellation Stability Engine Specification (v1.0)
+  - NDH Dashboard Constellation Stability Audit (v1.0)
+  - NDH Dashboard Constellation Stability Map (v1.0)
+  - NDH Dashboard Constellation Map (v1.0)
+  - Apex Geometry Field Guide (v1.0)
+  - Governance Membrane Map (v1.0)
+
+Non-Activation Clause:
+  This JSON graph is descriptive-only. It does not activate NDH geometry,
+  governance membranes, adjacency engines, rendering pipelines, treaty logic, or
+  simulation substrates.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 21 August 2026 — 19:36 IST
+---
+
