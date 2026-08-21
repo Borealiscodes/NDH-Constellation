@@ -135,6 +135,43 @@ NDH–Copilot Governance Interaction Protocol (v1.0)
 
 ---
 
+
+---
+Anchor: NDH Copilot Governance Alignment Charter (v1.0)
+Secondary Anchor: NDH Copilot Stability Register (v1.0)
+
+Purpose of Anchor:
+  Bind the Governance Interaction Protocol (v1.0) to the governance-layer
+  alignment and stability artifacts that define constitutional-altitude
+  behavior for Copilot. Ensure that all interaction rules remain sovereignty-
+  aligned, altitude-integrity-preserving, sequencing-faithful, and strictly
+  non-activating across all governance-adjacent operations.
+
+Anchor Requirements:
+  - All governance interactions must follow the Governance Alignment Charter.
+  - All stability assumptions must derive from the Stability Register.
+  - No interaction rule may introduce activation, tool-calling, or skill-loading.
+  - No governance interaction may cross sovereignty membranes or flatten altitude.
+  - All interpretive operations must preserve governance meaning and intent.
+  - All lineage and sequencing constraints must remain intact and unaltered.
+
+Lineage Context:
+  This anchor binds the Governance Interaction Protocol to the governance-layer
+  artifacts that define Copilot’s constitutional-altitude posture. The Charter
+  establishes alignment principles; the Stability Register confirms readiness.
+  Together they form the governance backbone for safe NDH–Copilot interaction.
+
+Membrane Constraint:
+  This anchor enforces governance membrane sovereignty by ensuring that
+  interaction rules do not import interaction-altitude behavior (activation,
+  recursion, external effects) into constitutional altitude. All operations
+  must remain non-activating, altitude-separated, and governance-pure.
+
+Status:
+  Active Anchor • Required for all future revisions
+---
+
+
 ## ⭐ 8 — Provenance Footer
 
 ```
