@@ -1,0 +1,226 @@
+# 🌐 **NDH–Copilot Interaction Boundary Map (v1.0)**  
+### *Constitutional‑Adjacent • Machine‑Readable • Non‑Activating*  
+### *Defines the Safe Interaction Zones Between NDH and GitHub Copilot*
+
+---
+
+# ⭐ 1 — Identity Block
+
+```
+{
+  "artifact": "NDH-Copilot-Interaction-Boundary-Map",
+  "version": "v1.0",
+  "altitude": "A8–A12",
+  "lane": "governance-adjacent",
+  "status": "non-activating"
+}
+```
+
+This sets the altitude and membrane context for the map.
+
+---
+
+# ⭐ 2 — Purpose
+
+A boundary map defines:
+
+- **where Copilot may interact with NDH artifacts**
+- **where Copilot must not load skills**
+- **where Copilot may summarize but not activate**
+- **where Copilot must remain non‑interactive**
+- **where Copilot may perform safe tests**
+
+This prevents:
+
+- altitude flattening  
+- membrane inversion  
+- governance drift  
+- recursion hazards  
+- activation leakage  
+
+Guided Link: **Skill Safety Criteria**
+
+---
+
+# ⭐ 3 — Boundary Zones (Human‑Readable)
+
+### **Zone 1 — Interaction Altitude (A0–A4)**  
+Copilot may:
+
+- summarize  
+- rewrite  
+- generate text  
+- perform safe reasoning  
+
+Copilot must not:
+
+- activate tools  
+- load skills that generate external effects  
+
+### **Zone 2 — Boundary Altitude (A5–A7)**  
+Copilot may:
+
+- perform conditional tests  
+- evaluate NDH artifacts  
+- run governance‑safe checks  
+
+Copilot must not:
+
+- load expressive or generative skills  
+- activate external systems  
+
+### **Zone 3 — Constitutional Altitude (A8–A12)**  
+Copilot may:
+
+- read  
+- summarize  
+- evaluate  
+- produce non‑activating artifacts  
+
+Copilot must not:
+
+- load skills  
+- activate tools  
+- perform side‑effects  
+- generate images  
+- call external systems  
+
+This is the zone where **skill‑loading is prohibited**.
+
+Guided Link: **Skill-Loading Prohibition Case Study**
+
+---
+
+# ⭐ 4 — Machine‑Readable Boundary Map
+
+```
+{
+  "boundary_map": {
+    "zones": [
+      {
+        "zone": "interaction",
+        "altitude": "A0–A4",
+        "copilot_allowed": [
+          "summaries",
+          "rewrites",
+          "safe_reasoning"
+        ],
+        "copilot_prohibited": [
+          "tool_activation",
+          "skill_loading"
+        ]
+      },
+      {
+        "zone": "boundary",
+        "altitude": "A5–A7",
+        "copilot_allowed": [
+          "evaluations",
+          "governance_safe_checks"
+        ],
+        "copilot_prohibited": [
+          "expressive_skills",
+          "activation_tools"
+        ]
+      },
+      {
+        "zone": "constitutional",
+        "altitude": "A8–A12",
+        "copilot_allowed": [
+          "reading",
+          "summarizing",
+          "non_activating_generation"
+        ],
+        "copilot_prohibited": [
+          "skill_loading",
+          "tool_activation",
+          "external_effects",
+          "membrane_crossing"
+        ]
+      }
+    ],
+    "rules": {
+      "non_activation": true,
+      "membrane_sovereignty": true,
+      "altitude_safety": true,
+      "sequencing_integrity": true
+    }
+  }
+}
+```
+
+This is the core of the boundary map.
+
+---
+
+# ⭐ 5 — Interaction Principles
+
+### **Principle 1 — Non‑Activation**
+Copilot must remain non‑activating at constitutional altitude.
+
+### **Principle 2 — Membrane Sovereignty**
+Copilot must not cross governance or sovereignty membranes.
+
+### **Principle 3 — Altitude Safety**
+Copilot must not flatten altitude by loading skills.
+
+### **Principle 4 — Sequencing Integrity**
+Copilot must not disrupt NDH constitutional sequencing.
+
+Guided Link: **Constitutional Sequencing Document**
+
+---
+
+# ⭐ 6 — Launch Pad for Future Tests
+
+```
+{
+  "launch_pad": {
+    "recommended_tests": [
+      "constitutional-altitude-evaluation",
+      "membrane-sovereignty-check",
+      "activation-risk-detection",
+      "skill-loading-prohibition-verification",
+      "sequencing-consistency-audit"
+    ],
+    "usage": "Use this boundary map to determine whether Copilot may interact with NDH artifacts safely."
+  }
+}
+```
+
+This ties directly into your evaluation summary.
+
+---
+
+# ⭐ 9 — Provenance Footer
+
+```
+---
+Artifact: NDH Copilot Interaction Boundary Map (v1.0)
+Lane: NDH-Constellation • Copilot Boundaries • Governance-Adjacent
+
+Purpose:
+  Define the safe interaction zones between NDH artifacts and GitHub Copilot.
+  Establish altitude boundaries, membrane sovereignty constraints, sequencing
+  integrity rules, and non-activation requirements for constitutional-layer
+  artifacts.
+
+Anchors:
+  - NDH Copilot Evaluation Summary v1.0
+  - NDH Skill-Loading Prohibition Case Study v1.0
+  - NDH Constitutional Sequencing Document v1.0
+  - NDH Dashboard Constellation Integration Spec v1.0
+
+Non-Activation Clause:
+  This artifact is descriptive-only. It does not activate geometry, membranes,
+  governance altitude, sealed-layer logic, hybrid mathematics, constellation
+  adjacency engines, or manifold traversal.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 21 August 2026 — 20:52 IST
+---
+```
+
+---
+
