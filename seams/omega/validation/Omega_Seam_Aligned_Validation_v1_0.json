@@ -1,0 +1,187 @@
+{
+  "artifact_name": "Omega Seam-Aligned Validation",
+  "version": "v1.0",
+  "altitude": "S2_A9_BOUNDARY",
+  "layer": "full_manifold_interaction_envelope",
+  "source_lineage": {
+    "omega_triads": [
+      "case_study_omega_simulation_profile.json",
+      "case_study_omega_behavioral_model.json",
+      "case_study_omega_drift_geometry_test.json",
+      "case_study_omega_simulation_triad_index.json"
+    ],
+    "post_interaction_analyses": [
+      "Omega_Post_Interaction_Analysis_A4_v1_0.md",
+      "Omega_Post_Interaction_Analysis_S2_v1_0.json"
+    ],
+    "seam_protocol": "Seam_Validation_Protocol_v1_0",
+    "bifurcation_validation": "Seam_Aligned_Bifurcation_Validation_v1_0"
+  },
+
+  "state_machine": {
+    "states": [
+      "ABV_CHECK",
+      "TPCV_CHECK",
+      "TSV_CHECK",
+      "LSV_CHECK",
+      "CRV_CHECK",
+      "CPV_CHECK",
+      "MTV_CHECK",
+      "VALIDATION_PASS",
+      "VALIDATION_FAIL"
+    ],
+    "initial_state": "ABV_CHECK",
+    "terminal_states": [
+      "VALIDATION_PASS",
+      "VALIDATION_FAIL"
+    ]
+  },
+
+  "transitions": [
+    {
+      "from": "ABV_CHECK",
+      "to": "TPCV_CHECK",
+      "condition": "altitude_bounds_ok"
+    },
+    {
+      "from": "ABV_CHECK",
+      "to": "VALIDATION_FAIL",
+      "condition": "altitude_bounds_violation"
+    },
+    {
+      "from": "TPCV_CHECK",
+      "to": "TSV_CHECK",
+      "condition": "tensor_prism_consistent"
+    },
+    {
+      "from": "TPCV_CHECK",
+      "to": "VALIDATION_FAIL",
+      "condition": "tensor_prism_inconsistent"
+    },
+    {
+      "from": "TSV_CHECK",
+      "to": "LSV_CHECK",
+      "condition": "translation_surfaces_intact"
+    },
+    {
+      "from": "TSV_CHECK",
+      "to": "VALIDATION_FAIL",
+      "condition": "translation_surface_breach"
+    },
+    {
+      "from": "LSV_CHECK",
+      "to": "CRV_CHECK",
+      "condition": "lane_sovereignty_preserved"
+    },
+    {
+      "from": "LSV_CHECK",
+      "to": "VALIDATION_FAIL",
+      "condition": "lane_merge_or_flatten"
+    },
+    {
+      "from": "CRV_CHECK",
+      "to": "CPV_CHECK",
+      "condition": "cluster_resonance_stable"
+    },
+    {
+      "from": "CRV_CHECK",
+      "to": "VALIDATION_FAIL",
+      "condition": "cluster_resonance_leakage"
+    },
+    {
+      "from": "CPV_CHECK",
+      "to": "MTV_CHECK",
+      "condition": "constellation_placement_stable"
+    },
+    {
+      "from": "CPV_CHECK",
+      "to": "VALIDATION_FAIL",
+      "condition": "constellation_adjacency_drift"
+    },
+    {
+      "from": "MTV_CHECK",
+      "to": "VALIDATION_PASS",
+      "condition": "manifold_traversal_integrity_ok"
+    },
+    {
+      "from": "MTV_CHECK",
+      "to": "VALIDATION_FAIL",
+      "condition": "manifold_traversal_failure"
+    }
+  ],
+
+  "checks": {
+    "ABV": {
+      "description": "Altitude Boundaries Validation for Ω",
+      "omega_altitudes": ["A4", "S2"],
+      "forbidden_altitudes": ["A10", "A12", "C1", "C4", "G0"],
+      "result": "altitude_bounds_ok"
+    },
+    "TPCV": {
+      "description": "Tensor–Prism Consistency for Ω manifold tensors and structural prisms",
+      "semantic_tensor_alignment": "consistent",
+      "structural_tensor_alignment": "consistent",
+      "curvature_facet_collapse": false,
+      "result": "tensor_prism_consistent"
+    },
+    "TSV": {
+      "description": "Translation Surface Integrity for Ω interaction documentation",
+      "semantic_translation_surfaces": "annotation_only",
+      "structural_translation_surfaces": "non_governance",
+      "governance_commitment_propagation": false,
+      "result": "translation_surfaces_intact"
+    },
+    "LSV": {
+      "description": "Lane Sovereignty for Ω semantic vs structural lanes",
+      "semantic_lane": "separate",
+      "structural_lane": "separate",
+      "dual_lane_prism_pair": "intact",
+      "lane_merge_or_flatten": false,
+      "result": "lane_sovereignty_preserved"
+    },
+    "CRV": {
+      "description": "Cluster Resonance Validation for Ω interaction with SCI-80 cluster geometry",
+      "cluster_resonance_status": "stable",
+      "resonance_leakage": false,
+      "result": "cluster_resonance_stable"
+    },
+    "CPV": {
+      "description": "Constellation Placement Validation for Ω upstream of NDH-Constellation",
+      "constellation_adjacency_status": "stable",
+      "constellation_collapse": false,
+      "altitude_misrouting": false,
+      "result": "constellation_placement_stable"
+    },
+    "MTV": {
+      "description": "Manifold Traversal Validation for Ω full-manifold interaction envelope",
+      "soft_manifold_traversal_status": "holonomy_consistent",
+      "curvature_failure": false,
+      "holonomy_misprojection": false,
+      "result": "manifold_traversal_integrity_ok"
+    }
+  },
+
+  "validation_result": {
+    "final_state": "VALIDATION_PASS",
+    "summary": {
+      "altitude_bounds_ok": true,
+      "tensor_prism_consistent": true,
+      "translation_surfaces_intact": true,
+      "lane_sovereignty_preserved": true,
+      "cluster_resonance_stable": true,
+      "constellation_placement_stable": true,
+      "manifold_traversal_integrity_ok": true
+    }
+  },
+
+  "non_activation_clause": {
+    "description": "This validation artifact is structural-only and state-machine-oriented. It does not activate NDH subsystems, governance membranes, simulation engines, or manifold processes.",
+    "membrane_status": "INTACT"
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "27 August 2026 — 23:28 IST"
+  }
+}
