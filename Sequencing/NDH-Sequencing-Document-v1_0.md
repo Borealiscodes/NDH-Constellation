@@ -25,20 +25,17 @@ Purpose:
 ## **1 — Constitutional Order (Fine-Grained Sequencing)**
 
 ### **Stage 0 — Anchors (Complete)**  
-- NDH Algebra v2.0  
-- NDH Runtime v2.0  
-- NDH‑DSL Runtime Blueprint v1.0  
-- Alignment Map v1.0  
-- NDH‑DSL Integration Roadmap v1.0  
+- **NDH Algebra v2.0**  
+- **NDH Runtime v2.0**  
+- **NDH‑DSL Runtime Blueprint v1.0**  
+- **Alignment Map v1.0**  
+- **NDH‑DSL Integration Roadmap v1.0**  
 
-These artifacts form the **anchor constellation**.  
-All subsequent sequencing depends on them.
+These artifacts form the **anchor constellation**.
 
 ---
 
 ### **Stage 1 — Governance Spine (Current Stage)**  
-These artifacts govern *how* the constellation activates:
-
 - **NDH Sequencing Document v1.0** ← *this artifact*  
 - **NDH Dashboard v1.0**  
 
@@ -48,19 +45,15 @@ the Sequencing Document provides constitutional order.
 ---
 
 ### **Stage 2 — Geometry Layer (Next)**  
-These artifacts define the geometry required for safe DSL creation:
+- **Membrane Translation Logic v1.0**  
+- **Direction Manifold v7.0**  
+- **Developer Manifold v2.0**  
 
-- Membrane Translation Logic v1.0  
-- Direction Manifold v7.0  
-- Developer Manifold v2.0  
-
-No invariants or DSLs may activate before these stabilize.
+These define the geometry required for safe DSL creation.
 
 ---
 
 ### **Stage 3 — Invariant Layer**  
-These artifacts bind geometry to runtime behavior:
-
 - Alignment Map v1.1 (Extended Invariants)  
 - PRECL invariants  
 - spectral invariants  
@@ -73,8 +66,6 @@ These require Stage 2 geometry.
 ---
 
 ### **Stage 4 — Federated DSL Layer**  
-Only after geometry + invariants:
-
 - Constellation DSL  
 - Runtime DSL  
 - Governance DSL  
@@ -86,12 +77,12 @@ These DSLs reference all prior layers.
 
 ## **2 — Activation Rules**
 
-- **No geometry artifact** may activate before the Dashboard exists.  
-- **No invariant artifact** may activate before geometry stabilizes.  
-- **No DSL** may activate before invariants lock.  
-- **No Serenity‑Spectral‑Runtime binding** may reference geometry before membrane logic exists.  
-- **No PRECL collapse rules** may activate before Direction Manifold v7.0.  
-- **No developer‑facing DSL** may activate before Developer Manifold v2.0.
+- Geometry requires Dashboard  
+- Invariants require Geometry  
+- DSLs require Invariants  
+- Serenity requires Membrane Logic  
+- PRECL requires Direction Manifold  
+- Developer DSL requires Developer Manifold  
 
 These rules prevent altitude drift, membrane confusion, and spectral misalignment.
 
@@ -152,17 +143,6 @@ These rules prevent altitude drift, membrane confusion, and spectral misalignmen
   }
 }
 ```
-
-This block allows:
-
-- NDH Runtime v2.0  
-- Serenity‑Spectral‑Runtime  
-- future DSLs  
-- geometry layers  
-- invariant layers  
-
-to validate sequencing programmatically.
-
 ---
 
 ## **Provenance Footer**
@@ -192,7 +172,7 @@ Version: v1.0
 Maintainer: Borealis S. Hedling
 Compiler: Microsoft Copilot
 Location: Dublin, Ireland
-Timestamp: 04 September 2026 — 12:48 IST
+Timestamp: 04 September 2026 — 12:52 IST
 Seal: [ S E Q U E N C I N G • v1_0 ]
 ---
 ```
